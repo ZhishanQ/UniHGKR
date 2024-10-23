@@ -17,7 +17,26 @@ We are preparing to update more code and benchmark datasets. Please be patient.
 
 ### 1. CompMix-IR Benchmark
 
-We will soon release the content of CompMix-IR.
+**The corpus of CompMix-IR:**
+1. Google Drive: [Link](https://drive.google.com/file/d/1sDmPieBkAnO9Rb7oDDXAgRDd5SRo_rPP/view?usp=sharing)
+2. HuggingFace Dataset: [Link](https://huggingface.co/datasets/ZhishanQ/CompMix-IR)
+
+**The QA pairs of CompMix:**
+
+CompMix QA pairs: [CompMix](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/CompMix)
+
+ConvMix QA pairs: [ConvMix_annotated](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/ConvMix_annotated)
+
+or Huggingface dataset:
+
+[CompMix](https://huggingface.co/datasets/pchristm/CompMix)
+
+[ConvMix](https://huggingface.co/datasets/pchristm/ConvMix)
+
+Code to evaluate whether the retrieved evidence is relevant to the question:
+
+[Code to judge relevance](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/eval_part)
+
 
 ### 2. UniHGKR model checkpoints
  
