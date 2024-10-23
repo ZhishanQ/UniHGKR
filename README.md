@@ -18,6 +18,14 @@ We are preparing to update more code and benchmark datasets. Please be patient.
 ### 1. CompMix-IR Benchmark
 
 ### 2. UniHGKR model checkpoints
+ 
+| Mdeol Name            | Description                                                                                                                | Huggingface  Link                                                              | Usage Example                                                                            |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| UniHGKR-base          | adapted for evaluation on CompMix-IR                                                                                       | [UniHGKR-base](https://huggingface.co/ZhishanQ/UniHGKR-base)                   |                                                                                          |
+| UniHGKR-base-beir     | adapted for evaluation on BEIR                                                                                             | [UniHGKR-base-beir](https://huggingface.co/ZhishanQ/UniHGKR-base-beir)         | [code for evaluation_beir](https://github.com/ZhishanQ/UniHGKR/tree/main/evaluation_beir) | 
+| UniHGKR-7B            | LLM-based retriever                                                           | [UniHGKR-7B](https://huggingface.co/ZhishanQ/UniHGKR-7B)                                                                 |
+| UniHGKR-7B-pretrained | The model was trained after Stages 1 and 2. It needs to be fine-tuned before being used for an information retrieval task. | [UniHGKR-7B-pretrained](https://huggingface.co/ZhishanQ/UniHGKR-7B-pretrained) |                                                                                          |
+
 
 ### 3. Code to train and evalutation
 
