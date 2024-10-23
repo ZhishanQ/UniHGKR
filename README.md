@@ -13,12 +13,23 @@ Finally, by equipping our retriever for open-domain heterogeneous QA systems, we
 
 
 ## Menu
+We are preparing to update more code and benchmark datasets. Please be patient.
 
 ### 1. CompMix-IR Benchmark
 
 ### 2. UniHGKR model checkpoints
 
 ### 3. Code to train and evalutation
+
+#### 3.1 Evalutation on CompMix-IR
+
+#### 3.2 Evalutation on Convmix
+
+#### 3.3 Evalutation on BERI
+
+Our variant model **UniHGKR-base-beir** adapted for evaluation on BEIR can be found at: https://huggingface.co/ZhishanQ/UniHGKR-base-beir
+
+The code for evaluation on BEIR at: [evaluation_beir](#evaluation_beir).
 
 
 ## Cite
