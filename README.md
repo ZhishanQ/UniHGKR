@@ -36,13 +36,22 @@ ConvMix QA pairs: [ConvMix_annotated](https://github.com/ZhishanQ/UniHGKR/tree/m
 
 or Huggingface dataset:
 
-[CompMix](https://huggingface.co/datasets/pchristm/CompMix)
-
-[ConvMix](https://huggingface.co/datasets/pchristm/ConvMix)
+[CompMix](https://huggingface.co/datasets/pchristm/CompMix), [ConvMix](https://huggingface.co/datasets/pchristm/ConvMix)
 
 Code to evaluate whether the retrieved evidence is relevant to the question:
 
 [Code to judge relevance](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/eval_part)
+
+Data-Text Pairs
+
+Google Drive: [Link]()
+
+The complete version of Data-Text Pairs is about 1.2 GB.
+
+We also provide a smaller file, which is a subset, to help readers understand its content and structure:
+
+[subset of data-text pairs](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/subset_kb_wikipedia_mixed_rd.json)
+
 
 
 ### 2. UniHGKR model checkpoints

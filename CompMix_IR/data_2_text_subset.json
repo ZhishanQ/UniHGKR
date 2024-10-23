@@ -1,0 +1,702 @@
+[
+    {
+        "index":724218,
+        "evi_id":5088563,
+        "source":"table",
+        "raw_data":"2010 Man Booker Prize, Author is Howard Jacobson, Title is The Finkler Question, Genre(s) is Novel, Country is UK, Publisher is Bloomsbury",
+        "nl_text":"The 2010 Man Booker Prize was awarded to Howard Jacobson for his novel \"The Finkler Question,\" which was published by Bloomsbury in the UK."
+    },
+    {
+        "index":1137823,
+        "evi_id":6739859,
+        "source":"table",
+        "raw_data":"1982 FIFA World Cup qualification (UEFA), Rank is 5, Team is LUX,  is &minus; 22",
+        "nl_text":"In the UEFA qualification for the 1982 FIFA World Cup, the team Luxembourg ranked 5th with a goal difference of -22."
+    },
+    {
+        "index":1794964,
+        "evi_id":9134905,
+        "source":"info",
+        "raw_data":"David Herman, David Herman, Children, 2",
+        "nl_text":"David Herman has two children."
+    },
+    {
+        "index":1662639,
+        "evi_id":8677280,
+        "source":"table",
+        "raw_data":"Sally Kirkland, Year is 2004, Title is Bloodlines, Role is Joyce, Notes is",
+        "nl_text":"In 2004, Sally Kirkland appeared in \"Bloodlines,\" playing the role of Joyce."
+    },
+    {
+        "index":675086,
+        "evi_id":675086,
+        "source":"kb",
+        "raw_data":"Hoskinson Park, located in the administrative territorial entity, Jefferson County",
+        "nl_text":"Hoskinson Park is located in Jefferson County."
+    },
+    {
+        "index":601301,
+        "evi_id":601301,
+        "source":"kb",
+        "raw_data":"The Campaign, cast member, John Lithgow",
+        "nl_text":"John Lithgow is a cast member of The Campaign."
+    },
+    {
+        "index":14789,
+        "evi_id":2272235,
+        "source":"table",
+        "raw_data":"Eritrea, Education system in Eritrea is Post- secondary - Advanced Diploma - 3 years",
+        "nl_text":"In Eritrea, the education system includes a post-secondary program that offers an advanced diploma, which takes three years to complete."
+    },
+    {
+        "index":404622,
+        "evi_id":3838488,
+        "source":"table",
+        "raw_data":"Blinding Lights, Region is United Kingdom, Date is December 20, 2019, Format is Contemporary hit radio, Version is Original, Label(s) is XO Republic,  is",
+        "nl_text":"\"Blinding Lights\" was released in the United Kingdom on December 20, 2019, and was played on contemporary hit radio. The original version of the song is under the labels XO and Republic."
+    },
+    {
+        "index":483350,
+        "evi_id":483350,
+        "source":"kb",
+        "raw_data":"A-AUTO, instance of, product",
+        "nl_text":"A-AUTO is classified as a product."
+    },
+    {
+        "index":1024618,
+        "evi_id":1024618,
+        "source":"kb",
+        "raw_data":"Didn't I, performer, Rod Stewart",
+        "nl_text":"\"Didn't I\" was performed by Rod Stewart."
+    },
+    {
+        "index":1221070,
+        "evi_id":7069891,
+        "source":"table",
+        "raw_data":"Walter Matthau, Year is 1965, Award is Tony Awards, Category is Best Actor in a Play, Project is The Odd Couple, Result is , Ref. is",
+        "nl_text":"In 1965, Walter Matthau received a Tony Award for Best Actor in a Play for his performance in \"The Odd Couple.\""
+    },
+    {
+        "index":748009,
+        "evi_id":748009,
+        "source":"kb",
+        "raw_data":"Castle, cast member, Yvonne Zima",
+        "nl_text":"Yvonne Zima was a cast member of the show Castle."
+    },
+    {
+        "index":573261,
+        "evi_id":573261,
+        "source":"kb",
+        "raw_data":"Charles Stewart, place of burial, Westminster Abbey",
+        "nl_text":"Charles Stewart was buried in Westminster Abbey."
+    },
+    {
+        "index":593314,
+        "evi_id":4594271,
+        "source":"info",
+        "raw_data":"Wick, Devizes, Wick, Country, England",
+        "nl_text":"Wick is a country located in England."
+    },
+    {
+        "index":1545680,
+        "evi_id":8268448,
+        "source":"info",
+        "raw_data":"Tower Records, , Products, DVDs, compact discs, videos, video games,  records ,  posters , books,  collectibles , accessories",
+        "nl_text":"Tower Records offers a variety of products including DVDs, compact discs, videos, video games, records, posters, books, collectibles, and accessories."
+    },
+    {
+        "index":1965522,
+        "evi_id":9721692,
+        "source":"info",
+        "raw_data":"Chess World Cup 2013, Tournament information, Host(s), Chess Federation of Norway",
+        "nl_text":"The Chess World Cup 2013 was hosted by the Chess Federation of Norway."
+    },
+    {
+        "index":699981,
+        "evi_id":4993039,
+        "source":"table",
+        "raw_data":"Linear B, Prefix is TH, Location is Thebes, Number of items and/or notes is 99 tablets + 238 published in 2002 (L. Godart and A. Sacconi, 2002). Thebes tablets",
+        "nl_text":"The Linear B tablets from Thebes, designated with the prefix TH, consist of a total of 99 tablets, along with an additional 238 tablets published in 2002 by L. Godart and A. Sacconi."
+    },
+    {
+        "index":803094,
+        "evi_id":803094,
+        "source":"kb",
+        "raw_data":"Eilish Susan Malcolm, given name, Eilish",
+        "nl_text":"Eilish Susan Malcolm's given name is Eilish."
+    },
+    {
+        "index":339521,
+        "evi_id":339521,
+        "source":"kb",
+        "raw_data":"Terminator 2: Judgment Day, filming location, California",
+        "nl_text":"Terminator 2: Judgment Day was filmed in California."
+    },
+    {
+        "index":377468,
+        "evi_id":377468,
+        "source":"kb",
+        "raw_data":"Stanislav \\u0160est\\u00E1k, participant in, 2010 FIFA World Cup",
+        "nl_text":"Stanislav Šesták was a participant in the 2010 FIFA World Cup."
+    },
+    {
+        "index":961020,
+        "evi_id":961020,
+        "source":"kb",
+        "raw_data":"David McKee, occupation, politician",
+        "nl_text":"David McKee is a politician."
+    },
+    {
+        "index":1759294,
+        "evi_id":1759294,
+        "source":"kb",
+        "raw_data":"Tamy Chambers, family name, Chambers",
+        "nl_text":"Tamy Chambers' family name is Chambers."
+    },
+    {
+        "index":719576,
+        "evi_id":719576,
+        "source":"kb",
+        "raw_data":"Runsor, located in the administrative territorial entity, Vaasa, start time, \"1973-01-01T00:00:00Z\", reason for preferred rank, currently valid value",
+        "nl_text":"Runsor has been located in the administrative territorial entity of Vaasa since January 1, 1973, and this status is currently considered valid."
+    },
+    {
+        "index":1618094,
+        "evi_id":1618094,
+        "source":"kb",
+        "raw_data":"1953\\u201354 French Division 2, participating team, Olympique Lyonnais, number of points/goals conceded, \"+44\", number of points/goals/set scored, \"+108\", ranking, \"+1\", number of matches played/races/starts, \"+38\", number of losses, \"+5\", number of wins, \"+25\", number of draws/ties, \"+8\"",
+        "nl_text":"During the 1953–54 French Division 2 season, Olympique Lyonnais participated and achieved a ranking of +1. The team played a total of 38 matches, winning 25, drawing 8, and losing 5. They scored a total of +108 points/goals while conceding +44 points/goals."
+    },
+    {
+        "index":99823,
+        "evi_id":2622742,
+        "source":"info",
+        "raw_data":"IRT Broadway%E2%80%93Seventh Avenue Line, Route map, , , , , 207th Street",
+        "nl_text":"The 207th Street station is part of the route map for the IRT Broadway–Seventh Avenue Line."
+    },
+    {
+        "index":1362799,
+        "evi_id":7617073,
+        "source":"table",
+        "raw_data":"Czech Republic women's national football team, UEFA Women's Championship record is England 2005, Qualifying record is Did not qualify",
+        "nl_text":"The Czech Republic women's national football team has a UEFA Women's Championship record from England in 2005 and did not qualify for the tournament."
+    },
+    {
+        "index":2081250,
+        "evi_id":2081250,
+        "source":"kb",
+        "raw_data":"The Virginian, cast member, Gary Cooper",
+        "nl_text":"Gary Cooper was a cast member in The Virginian."
+    },
+    {
+        "index":2058491,
+        "evi_id":2058491,
+        "source":"kb",
+        "raw_data":"Johan Ehrendahl, occupation, game designer",
+        "nl_text":"Johan Ehrendahl is a game designer."
+    },
+    {
+        "index":1039996,
+        "evi_id":6347543,
+        "source":"table",
+        "raw_data":"Worms, Germany, Name is Pfeddersheim, Population is 7,414 &nbsp; &nbsp; &nbsp;, Direction and distance from city centre is West 7 km mi",
+        "nl_text":"The town of Pfeddersheim in Germany has a population of 7,414 and is located 7 kilometers west of the city center."
+    },
+    {
+        "index":1541542,
+        "evi_id":1541542,
+        "source":"kb",
+        "raw_data":"Antoine de Saint-Exup\\u00E9ry, Commons category, \"Antoine de Saint-Exup\\u00E9ry\"",
+        "nl_text":"The Commons category for Antoine de Saint-Exupéry is \"Antoine de Saint-Exupéry.\""
+    },
+    {
+        "index":1048747,
+        "evi_id":1048747,
+        "source":"kb",
+        "raw_data":"Georgette, performer, Bette Midler, of, Oliver & Company",
+        "nl_text":"Georgette is a character performed by Bette Midler in the film Oliver & Company."
+    },
+    {
+        "index":1314401,
+        "evi_id":7438163,
+        "source":"info",
+        "raw_data":"Sirius Black, Sirius Black, Created by, J. K. Rowling",
+        "nl_text":"Sirius Black was created by J. K. Rowling."
+    },
+    {
+        "index":1977840,
+        "evi_id":1977840,
+        "source":"kb",
+        "raw_data":"Nico di Angelo, creator, Rick Riordan",
+        "nl_text":"Nico di Angelo was created by Rick Riordan."
+    },
+    {
+        "index":2067155,
+        "evi_id":10075151,
+        "source":"info",
+        "raw_data":"Geoff Moriarty, Playing career 1, 1891, Carlton  ( VFA ), 14 (1)",
+        "nl_text":"Geoff Moriarty played for Carlton in the Victorian Football Association (VFA) during the year 1891, achieving a record of 14 games with 1 goal."
+    },
+    {
+        "index":1121948,
+        "evi_id":1121948,
+        "source":"kb",
+        "raw_data":"Christer Nilsson, position held, member of the Swedish Riksdag, start time, 3 October \"1988, parliamentary group, Swedish Social Democratic Party, parliamentary term, 1988\\u20131991 Swedish Riksdag, replaced by, Sonia Karlsson, electoral district, Constituency of the county of \\u00D6sterg\\u00F6tland, elected in, 1988 Swedish general election, end cause, resignation, end time, 3 October \"1988",
+        "nl_text":"Christer Nilsson served as a member of the Swedish Riksdag for the Swedish Social Democratic Party, representing the Constituency of the county of Östergötland. He was elected during the 1988 Swedish general election and held his position from 3 October 1988 until his resignation on the same date. He was succeeded by Sonia Karlsson during the parliamentary term from 1988 to 1991."
+    },
+    {
+        "index":1424816,
+        "evi_id":1424816,
+        "source":"kb",
+        "raw_data":"Bacino di San Marco, Venice, creator, F\\u00E9lix Ziem",
+        "nl_text":"The Bacino di San Marco in Venice was created by Félix Ziem."
+    },
+    {
+        "index":146783,
+        "evi_id":2811563,
+        "source":"table",
+        "raw_data":"Jennifer Lawrence, Year is 2016, Title is Passengers, Role is Lane Aurora Lane, Notes is",
+        "nl_text":"In 2016, Jennifer Lawrence appeared in \"Passengers,\" playing the role of Lane Aurora Lane."
+    },
+    {
+        "index":871849,
+        "evi_id":871849,
+        "source":"kb",
+        "raw_data":"Golden Globe Award for Best Actor \\u2013 Motion Picture Musical or Comedy, winner, Jim Carrey, point in time, \"1999-01-01T00:00:00Z\", for work, Man on the Moon",
+        "nl_text":"Jim Carrey won the Golden Globe Award for Best Actor in a Motion Picture Musical or Comedy for his performance in \"Man on the Moon\" on January 1, 1999."
+    },
+    {
+        "index":222212,
+        "evi_id":3108258,
+        "source":"info",
+        "raw_data":"Meaning of Life (Kelly Clarkson song), from the album  Meaning of Life, Producer(s), Jesse Shatkin",
+        "nl_text":"The song \"Meaning of Life\" by Kelly Clarkson is from the album \"Meaning of Life\" and was produced by Jesse Shatkin."
+    },
+    {
+        "index":742239,
+        "evi_id":5155079,
+        "source":"info",
+        "raw_data":"Oscar Isaac, Oscar Isaac, Born, Óscar Isaac Hernández Estrada    ( 1979-03-09 )  March 9, 1979  (age 43)  Guatemala City , Guatemala",
+        "nl_text":"Oscar Isaac, born Óscar Isaac Hernández Estrada on March 9, 1979, is 43 years old and hails from Guatemala City, Guatemala."
+    },
+    {
+        "index":1397335,
+        "evi_id":7745566,
+        "source":"table",
+        "raw_data":"K.d. lang, Year is 2006, Title is The Black Dahlia, Role is Lesbian Bar Singer (uncredited)",
+        "nl_text":"In 2006, K.d. lang appeared in \"The Black Dahlia\" in an uncredited role as a Lesbian Bar Singer."
+    },
+    {
+        "index":639553,
+        "evi_id":4762723,
+        "source":"table",
+        "raw_data":"NCIS (franchise), NCIS is NCIS: New Orleans, L.A. is Rob Kerkovich, N.O. is Sebastian Lund NCIS: New Orleans#Sebastian Lund, HI is 2014–21, JAG is ,  is , Scorpion is Main",
+        "nl_text":"In the \"NCIS\" franchise, \"NCIS: New Orleans\" features Rob Kerkovich as L.A. and Sebastian Lund as N.O. The series aired from 2014 to 2021, and it is categorized as a main series in the franchise."
+    },
+    {
+        "index":443927,
+        "evi_id":443927,
+        "source":"kb",
+        "raw_data":"taxon, has quality, scientific name",
+        "nl_text":"The taxon has the quality of possessing a scientific name."
+    },
+    {
+        "index":89388,
+        "evi_id":89388,
+        "source":"kb",
+        "raw_data":"Eye Movements and the Stability of the Visual World, issue, \"4644\"",
+        "nl_text":"The issue of \"Eye Movements and the Stability of the Visual World\" is identified as number 4644."
+    },
+    {
+        "index":894045,
+        "evi_id":894045,
+        "source":"kb",
+        "raw_data":"Africa Alphabet, has part or parts, F",
+        "nl_text":"Africa Alphabet includes the letter F as one of its components."
+    },
+    {
+        "index":850901,
+        "evi_id":5582328,
+        "source":"table",
+        "raw_data":"Eurovision Song Contest 2016, N. is 2, Contestant is Macedonia, Nation(s) giving 12 points is Albania , Serbia",
+        "nl_text":"In the 2016 Eurovision Song Contest, Macedonia finished in 2nd place and received 12 points from Albania and Serbia."
+    },
+    {
+        "index":1229163,
+        "evi_id":7103540,
+        "source":"info",
+        "raw_data":"Crimean%E2%80%93Congo hemorrhagic fever, Crimean–Congo hemorrhagic fever, Differential diagnosis, Dengue fever ,  Q fever ,    Ebola virus disease",
+        "nl_text":"The differential diagnosis for Crimean–Congo hemorrhagic fever includes dengue fever, Q fever, and Ebola virus disease."
+    },
+    {
+        "index":1877028,
+        "evi_id":9417409,
+        "source":"table",
+        "raw_data":"Jun Ji-hyun, Year is 2008, Title is A Man Who Was Superman, Role is Song Soo-jung, Ref. is",
+        "nl_text":"In 2008, Jun Ji-hyun appeared in \"A Man Who Was Superman,\" playing the role of Song Soo-jung."
+    },
+    {
+        "index":327462,
+        "evi_id":327462,
+        "source":"kb",
+        "raw_data":"Les Sept Ivresses, instance of, musical work",
+        "nl_text":"Les Sept Ivresses is classified as a musical work."
+    },
+    {
+        "index":71562,
+        "evi_id":71562,
+        "source":"kb",
+        "raw_data":"On the importance of using scandium to normalize geochemical data preceding multivariate analyses applied to archaeometric pottery studies, main subject, Scandium",
+        "nl_text":"The main subject of the study titled \"On the importance of using scandium to normalize geochemical data preceding multivariate analyses applied to archaeometric pottery studies\" is scandium."
+    },
+    {
+        "index":1853221,
+        "evi_id":9338943,
+        "source":"info",
+        "raw_data":"Waldron, Indiana, Population   ( 2020 ), Time zone, UTC-5  ( Eastern (EST) )",
+        "nl_text":"Waldron, Indiana is in the UTC-5 time zone, which corresponds to Eastern Standard Time (EST)."
+    },
+    {
+        "index":1761997,
+        "evi_id":1761997,
+        "source":"kb",
+        "raw_data":"Arielle Kayabaga, position held, member of the House of Commons of Canada, electoral district, London West, parliamentary term, 44th Canadian Parliament, elected in, 2021 Canadian federal election, parliamentary group, Liberal Party of Canada",
+        "nl_text":"Arielle Kayabaga is a member of the House of Commons of Canada representing the electoral district of London West. She was elected during the 2021 Canadian federal election and serves in the 44th Canadian Parliament as a member of the Liberal Party of Canada."
+    },
+    {
+        "index":819084,
+        "evi_id":819084,
+        "source":"kb",
+        "raw_data":"A Small Nervous Meltdown and a Misplaced Fork, part of the series, Mom, series ordinal, \"3\"",
+        "nl_text":"\"A Small Nervous Meltdown and a Misplaced Fork\" is the third episode of the series \"Mom.\""
+    },
+    {
+        "index":594649,
+        "evi_id":594649,
+        "source":"kb",
+        "raw_data":"Kim family, founded by, Kim Il-sung",
+        "nl_text":"The Kim family was founded by Kim Il-sung."
+    },
+    {
+        "index":343295,
+        "evi_id":343295,
+        "source":"kb",
+        "raw_data":"Ashok Kumar Yadav, position held, Member of the 17th Lok Sabha, electoral district, Madhubani Lok Sabha constituency, parliamentary term, 17th Lok Sabha, parliamentary group, Bharatiya Janata Party",
+        "nl_text":"Ashok Kumar Yadav is a Member of the 17th Lok Sabha representing the Madhubani Lok Sabha constituency, and he is part of the Bharatiya Janata Party during this parliamentary term."
+    },
+    {
+        "index":2098511,
+        "evi_id":2098511,
+        "source":"kb",
+        "raw_data":"Chelsea Cook, given name, Chelsea",
+        "nl_text":"Chelsea Cook's given name is Chelsea."
+    },
+    {
+        "index":511472,
+        "evi_id":4262246,
+        "source":"table",
+        "raw_data":"2012 Cannes Film Festival, English title is Laurence Anyways, Original title is Xavier Dolan, Director(s) is Canada",
+        "nl_text":"The English title of the film presented at the 2012 Cannes Film Festival is \"Laurence Anyways,\" which was directed by Xavier Dolan from Canada."
+    },
+    {
+        "index":855981,
+        "evi_id":855981,
+        "source":"kb",
+        "raw_data":"organisation, has quality, stakeholder",
+        "nl_text":"The organization is characterized by having stakeholders."
+    },
+    {
+        "index":1404520,
+        "evi_id":7767500,
+        "source":"table",
+        "raw_data":"Julie (album), Track number is 9, Title is \" You're Getting to Be a Habit with Me \", Songwriter(s) is Harry Warren , Al Dubin, Length is 2:32",
+        "nl_text":"Track number 9 on the album \"Julie\" features the song \"You're Getting to Be a Habit with Me,\" which was written by Harry Warren and Al Dubin, and has a length of 2 minutes and 32 seconds."
+    },
+    {
+        "index":612700,
+        "evi_id":612700,
+        "source":"kb",
+        "raw_data":"Ludwig Bai, position played on team / speciality, Goalkeeper",
+        "nl_text":"Ludwig Bai plays the position of goalkeeper on his team."
+    },
+    {
+        "index":1956994,
+        "evi_id":1956994,
+        "source":"kb",
+        "raw_data":"Rams\\u00E9s Bustos, sex or gender, male",
+        "nl_text":"Ramsés Bustos is identified as male."
+    },
+    {
+        "index":802374,
+        "evi_id":5388379,
+        "source":"table",
+        "raw_data":"Saw (2004 film), Award is Festival international du film fantastique de Gérardmer, Category is Youth Jury Grand Prize, Recipient(s) is James Wan, Result is",
+        "nl_text":"The film \"Saw,\" released in 2004, received the Youth Jury Grand Prize at the Festival international du film fantastique de Gérardmer, awarded to James Wan."
+    },
+    {
+        "index":1366355,
+        "evi_id":1366355,
+        "source":"kb",
+        "raw_data":"Torti, located in the administrative territorial entity, Arce",
+        "nl_text":"Torti is located in the administrative territorial entity of Arce."
+    },
+    {
+        "index":2117448,
+        "evi_id":2117448,
+        "source":"kb",
+        "raw_data":"2Pac Live, performer, Tupac Shakur",
+        "nl_text":"2Pac Live was performed by Tupac Shakur."
+    },
+    {
+        "index":893520,
+        "evi_id":5748472,
+        "source":"info",
+        "raw_data":"Granite Township, Morrison County, Minnesota, Granite Township, Minnesota, State, Minnesota",
+        "nl_text":"Granite Township is located in Morrison County, Minnesota, and is classified as a state in Minnesota."
+    },
+    {
+        "index":208032,
+        "evi_id":3049043,
+        "source":"table",
+        "raw_data":"Big (film), Award is Academy Awards, Category is Academy Award for Best Actor, Recipient(s) is Tom Hanks, Result is",
+        "nl_text":"Tom Hanks received the Academy Award for Best Actor for his performance in the film \"Big.\""
+    },
+    {
+        "index":1241274,
+        "evi_id":1241274,
+        "source":"kb",
+        "raw_data":"Simon & Garfunkel, has part or parts, Paul Simon",
+        "nl_text":"Simon & Garfunkel includes Paul Simon as a member."
+    },
+    {
+        "index":1393563,
+        "evi_id":1393563,
+        "source":"kb",
+        "raw_data":"Wallace Reis Silva, member of sports team, Gr\\u00EAmio Football Porto Alegrense, start time, \"2016",
+        "nl_text":"Wallace Reis Silva became a member of the sports team Grêmio Football Porto Alegrense in 2016."
+    },
+    {
+        "index":222019,
+        "evi_id":222019,
+        "source":"kb",
+        "raw_data":"Best, list of monuments, list of war memorials in Best",
+        "nl_text":"Best has a list of war memorials."
+    },
+    {
+        "index":149859,
+        "evi_id":149859,
+        "source":"kb",
+        "raw_data":"Moreno Torricelli, total goals in career, \"+0\", of, Intercontinental Cup (football), point in time, \"2020-08-22T00:00:00Z\"",
+        "nl_text":"Moreno Torricelli had a total of 0 goals in his career in the Intercontinental Cup (football) as of 22 August 2020."
+    },
+    {
+        "index":957168,
+        "evi_id":957168,
+        "source":"kb",
+        "raw_data":"Klown Forever, Medierådet rating, For ages 15 and up",
+        "nl_text":"Klown Forever has a Medierådet rating of suitable for ages 15 and up."
+    },
+    {
+        "index":2098717,
+        "evi_id":2098717,
+        "source":"kb",
+        "raw_data":"Cecil Dreeme, publisher, Ticknor and Fields",
+        "nl_text":"Cecil Dreeme was published by Ticknor and Fields."
+    },
+    {
+        "index":216317,
+        "evi_id":3086125,
+        "source":"table",
+        "raw_data":"BPM (Beats per Minute), Award is Lumières Awards, Date of ceremony is 5 February 2018, Category is Best Director, Recipient(s) is Robin Campillo, Result is ,  is",
+        "nl_text":"The film \"BPM (Beats per Minute)\" received the Lumières Award for Best Director on February 5, 2018, awarded to Robin Campillo."
+    },
+    {
+        "index":99837,
+        "evi_id":2622756,
+        "source":"info",
+        "raw_data":"IRT Broadway%E2%80%93Seventh Avenue Line, Route map, , , , , 103rd Street",
+        "nl_text":"The 103rd Street station is part of the route map for the IRT Broadway–Seventh Avenue Line."
+    },
+    {
+        "index":767580,
+        "evi_id":767580,
+        "source":"kb",
+        "raw_data":"Dao, instance of, Wikimedia disambiguation page",
+        "nl_text":"The Dao is an instance of a Wikimedia disambiguation page."
+    },
+    {
+        "index":1878219,
+        "evi_id":9420286,
+        "source":"info",
+        "raw_data":"Semmering railway, UNESCO World Heritage Site,",
+        "nl_text":"The Semmering railway is recognized as a UNESCO World Heritage Site."
+    },
+    {
+        "index":1895686,
+        "evi_id":9478981,
+        "source":"table",
+        "raw_data":"American Jews, Election year is 2016, Candidate of the Democratic Party is Hillary Clinton, % of Jewish vote to the Democratic Party is 71, Result of the Democratic Party is Norway",
+        "nl_text":"In the 2016 election year, Hillary Clinton was the candidate of the Democratic Party, receiving 71% of the Jewish vote. The result for the Democratic Party was Norway."
+    },
+    {
+        "index":651335,
+        "evi_id":4805438,
+        "source":"table",
+        "raw_data":"Louis Gossett Jr., Year is 1984, Title is Finders Keepers, Role is Century, Notes is",
+        "nl_text":"In 1984, Louis Gossett Jr. appeared in \"Finders Keepers,\" playing the role of Century."
+    },
+    {
+        "index":2090061,
+        "evi_id":10154803,
+        "source":"info",
+        "raw_data":"Michael Shannon, Michael Shannon, Years active, 1992–present",
+        "nl_text":"Michael Shannon has been active in his career since 1992 and continues to be active to the present day."
+    },
+    {
+        "index":2045171,
+        "evi_id":9992682,
+        "source":"info",
+        "raw_data":"Cameron Diaz, Cameron Diaz, Years active, 1990–present",
+        "nl_text":"Cameron Diaz has been active in her career since 1990 and continues to be active to the present day."
+    },
+    {
+        "index":1855837,
+        "evi_id":1855837,
+        "source":"kb",
+        "raw_data":"Year of the Cycos, genre, crossover thrash",
+        "nl_text":"Year of the Cycos is categorized as a crossover thrash genre."
+    },
+    {
+        "index":1423566,
+        "evi_id":1423566,
+        "source":"kb",
+        "raw_data":"Law No. 4070 of June 15, 1962, approved by, Presidency of the Federative Republic of Brazil, determination method, Promulgation, signatory, Jo\\u00E3o Goulart, point in time, 15 June \"1962",
+        "nl_text":"Law No. 4070, approved by the Presidency of the Federative Republic of Brazil, was promulgated and signed by João Goulart on June 15, 1962."
+    },
+    {
+        "index":1934362,
+        "evi_id":1934362,
+        "source":"kb",
+        "raw_data":"High-sensitivity C-reactive protein levels and treadmill exercise test responses in men and women without overt heart disease, cites work, Heart-rate recovery immediately after exercise as a predictor of mortality",
+        "nl_text":"The study on high-sensitivity C-reactive protein levels and treadmill exercise test responses in men and women without overt heart disease cites the work titled \"Heart-rate recovery immediately after exercise as a predictor of mortality.\""
+    },
+    {
+        "index":1334591,
+        "evi_id":1334591,
+        "source":"kb",
+        "raw_data":"Gertrude Bourdon, family name, Bourdon",
+        "nl_text":"Gertrude Bourdon's family name is Bourdon."
+    },
+    {
+        "index":571251,
+        "evi_id":571251,
+        "source":"kb",
+        "raw_data":"Shahrukh Khan, award received, Filmfare Award for Best Actor, for work, Chak De! India, point in time, \"2008-01-01T00:00:00Z\"",
+        "nl_text":"Shahrukh Khan received the Filmfare Award for Best Actor for his work in \"Chak De! India\" on January 1, 2008."
+    },
+    {
+        "index":932811,
+        "evi_id":932811,
+        "source":"kb",
+        "raw_data":"Said Ahmed Said, member of sports team, K.S.C. Lokeren Oost-Vlaanderen, acquisition transaction, loan, start time, \"2019-08-01T00:00:00Z\", number of points/goals/set scored, \"+0\", number of matches played/races/starts, \"+14\", end time, \"2020-06-01T00:00:00Z\"",
+        "nl_text":"Said Ahmed Said was a member of the sports team K.S.C. Lokeren Oost-Vlaanderen on loan from 1 August 2019 to 1 June 2020, during which he played 14 matches and did not score any points or goals."
+    },
+    {
+        "index":1967400,
+        "evi_id":1967400,
+        "source":"kb",
+        "raw_data":"The Accident, production company, Channel 4",
+        "nl_text":"The Accident was produced by Channel 4."
+    },
+    {
+        "index":915563,
+        "evi_id":5836023,
+        "source":"table",
+        "raw_data":"1962 Michigan Wolverines baseball team, (4–1) is April 13, Date is Arizona State*, Opponent is W 4–3, Site/Stadium is 3–5, Score is",
+        "nl_text":"On April 13, the 1962 Michigan Wolverines baseball team played against Arizona State, winning the game with a score of 4 to 3."
+    },
+    {
+        "index":106022,
+        "evi_id":106022,
+        "source":"kb",
+        "raw_data":"head horse Kerman MAO132, depicts, head, of, Horse",
+        "nl_text":"The head horse Kerman MAO132 depicts the head of a horse."
+    },
+    {
+        "index":1952415,
+        "evi_id":1952415,
+        "source":"kb",
+        "raw_data":"Resonance versus aerodynamics for energy savings in agile natural flyers, main subject, aerodynamics",
+        "nl_text":"The main subject of \"Resonance versus aerodynamics for energy savings in agile natural flyers\" is aerodynamics."
+    },
+    {
+        "index":1274587,
+        "evi_id":7285585,
+        "source":"info",
+        "raw_data":"Gordon McVie, John Gordon McVie FRCP   FRCPE   FRCPGlas   FMedSci, Born, ( 1945-01-13 ) 13 January 1945 Glasgow, Scotland",
+        "nl_text":"Gordon McVie was born on January 13, 1945, in Glasgow, Scotland."
+    },
+    {
+        "index":1230552,
+        "evi_id":1230552,
+        "source":"kb",
+        "raw_data":"Q97824189, author, Matilda Ernkrans, series ordinal, \"8\"",
+        "nl_text":"The work identified as Q97824189 is authored by Matilda Ernkrans and is the eighth installment in its series."
+    },
+    {
+        "index":912513,
+        "evi_id":5823918,
+        "source":"table",
+        "raw_data":"Shape of You, Region is Various, Date is 11 August 2017, Format is Digital download, Version is Yxng Bane Remix, Label is Asylum,  is",
+        "nl_text":"The song \"Shape of You\" was released in various regions on August 11, 2017, as a digital download. The version is the Yxng Bane Remix, and it was released under the Asylum label."
+    },
+    {
+        "index":291055,
+        "evi_id":291055,
+        "source":"kb",
+        "raw_data":"ESICM LIVES 2016: part three: Milan, Italy. 1\\u20135 October 2016, author name string, \"P. Medrano Travieso\", series ordinal, \"2591\"",
+        "nl_text":"The event \"ESICM LIVES 2016: part three\" took place in Milan, Italy, from October 1 to October 5, 2016, and was authored by P. Medrano Travieso, being part of series number 2591."
+    },
+    {
+        "index":1937699,
+        "evi_id":9627843,
+        "source":"table",
+        "raw_data":"Hope, Arkansas, Race is Black or African American (non-Hispanic), Num. is 3950, Perc. is 44.12%",
+        "nl_text":"In Hope, Arkansas, the Black or African American (non-Hispanic) population is 3,950, which represents 44.12% of the total population."
+    },
+    {
+        "index":1471653,
+        "evi_id":8006279,
+        "source":"info",
+        "raw_data":"Nikos Logothetis, Nikos Logothetis, Education, University of Athens  (BS, mathematics) University of Thessaloniki  (BS, biology) Ludwig Maximilian University of Munich  (PhD, human neurobiology)",
+        "nl_text":"Nikos Logothetis received his education from the University of Athens with a Bachelor of Science in mathematics, the University of Thessaloniki with a Bachelor of Science in biology, and Ludwig Maximilian University of Munich, where he earned a PhD in human neurobiology."
+    },
+    {
+        "index":1594470,
+        "evi_id":1594470,
+        "source":"kb",
+        "raw_data":"Samuel C. C. Ting, member of, American Physical Society",
+        "nl_text":"Samuel C. C. Ting is a member of the American Physical Society."
+    },
+    {
+        "index":1884273,
+        "evi_id":1884273,
+        "source":"kb",
+        "raw_data":"2014 Tour of Beijing, participant, Caleb Ewan, sport number, \"103\"",
+        "nl_text":"Caleb Ewan participated in the 2014 Tour of Beijing, competing in sport number 103."
+    },
+    {
+        "index":1031849,
+        "evi_id":1031849,
+        "source":"kb",
+        "raw_data":"Julio-Claudian dynasty, instance of, Dynasty",
+        "nl_text":"The Julio-Claudian dynasty is classified as a dynasty."
+    },
+    {
+        "index":1697885,
+        "evi_id":8801213,
+        "source":"info",
+        "raw_data":"Batman Beyond (comics), Publication information, Schedule, Monthly",
+        "nl_text":"The \"Batman Beyond\" comics are published on a monthly schedule."
+    }
+]
