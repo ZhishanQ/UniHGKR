@@ -29,7 +29,7 @@ We are preparing to update more code and benchmark datasets. Please be patient.
 
 Our variant model **UniHGKR-base-beir** adapted for evaluation on BEIR can be found at: https://huggingface.co/ZhishanQ/UniHGKR-base-beir
 
-The code for evaluation on BEIR at: [evaluation_beir](#evaluation_beir).
+The code for evaluation on BEIR at: [evaluation_beir](https://github.com/ZhishanQ/UniHGKR/tree/main/evaluation_beir).
 
 
 ## Cite
