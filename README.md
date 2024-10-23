@@ -12,14 +12,16 @@ Extensive experiments show that UniHGKR consistently outperforms state-of-the-ar
 Finally, by equipping our retriever for open-domain heterogeneous QA systems, we achieve a new state-of-the-art result on the popular [ConvMix](https://convinse.mpi-inf.mpg.de/) task, with an absolute improvement of up to 4.80 points.
 
 
-## Menu
-We are preparing to update more code and benchmark datasets. Please be patient.
+
+**We are preparing to update more code and benchmark datasets. Please be patient.**
 
 ### 1. CompMix-IR Benchmark
 
-**The corpus of CompMix-IR:**
-1. Google Drive: [Link](https://drive.google.com/file/d/1sDmPieBkAnO9Rb7oDDXAgRDd5SRo_rPP/view?usp=sharing)
-2. HuggingFace Dataset: [Link](https://huggingface.co/datasets/ZhishanQ/CompMix-IR)
+### 1.1 The corpus of CompMix-IR:
+
+Download from Google Drive: [Link](https://drive.google.com/file/d/1sDmPieBkAnO9Rb7oDDXAgRDd5SRo_rPP/view?usp=sharing)
+
+Or HuggingFace Dataset: [Link](https://huggingface.co/datasets/ZhishanQ/CompMix-IR)
 
 The complete version of the CompMix_IR heterogeneous knowledge corpus is approximately 3-4 GB in size.
 
@@ -28,7 +30,7 @@ We also provide a smaller file, which is a subset, to help readers understand it
 [subset of corpus](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/subset_kb_wikipedia_mixed_rd.json)
 
 
-**The QA pairs of CompMix:**
+### 1.2 The QA pairs of CompMix:
 
 CompMix QA pairs: [CompMix](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/CompMix)
 
@@ -38,19 +40,21 @@ or Huggingface dataset:
 
 [CompMix](https://huggingface.co/datasets/pchristm/CompMix), [ConvMix](https://huggingface.co/datasets/pchristm/ConvMix)
 
-Code to evaluate whether the retrieved evidence is relevant to the question:
+### 1.3 Code to evaluate 
+
+Code to evaluate whether the retrieved evidence is positive to the question:
 
 [Code to judge relevance](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/eval_part)
 
-Data-Text Pairs
+### 1.4 Data-Text Pairs
 
-Google Drive: [Link]()
+Google Drive: [Link](https://drive.google.com/file/d/1AOyY0T_FQo7Br6o7KfkNSnoW9L9dZYXb/view?usp=sharing)
 
 The complete version of Data-Text Pairs is about 1.2 GB.
 
 We also provide a smaller file, which is a subset, to help readers understand its content and structure:
 
-[subset of data-text pairs](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/subset_kb_wikipedia_mixed_rd.json)
+[subset of data-text pairs](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/data_2_text_subset.json)
 
 
 
