@@ -21,6 +21,13 @@ We are preparing to update more code and benchmark datasets. Please be patient.
 1. Google Drive: [Link](https://drive.google.com/file/d/1sDmPieBkAnO9Rb7oDDXAgRDd5SRo_rPP/view?usp=sharing)
 2. HuggingFace Dataset: [Link](https://huggingface.co/datasets/ZhishanQ/CompMix-IR)
 
+The complete version of the CompMix_IR heterogeneous knowledge corpus is approximately 3-4 GB in size.
+
+We also provide a smaller file, which is a subset, to help readers understand its content and structure:
+
+[subset of corpus](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/subset_kb_wikipedia_mixed_rd.json)
+
+
 **The QA pairs of CompMix:**
 
 CompMix QA pairs: [CompMix](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/CompMix)

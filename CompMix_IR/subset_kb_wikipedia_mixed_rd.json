@@ -1,0 +1,3792 @@
+[
+    {
+        "evidence_text": "The Twilight Zone (1959 TV series), Season is 4 (1963), Time slot is Thursday at 9:00-10:00 pm E.T.",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "Q4571012",
+                "label": "1962\\u201363 United States network television schedule"
+            },
+            {
+                "id": "1959-01-01T00:00:00Z",
+                "label": "1959"
+            },
+            {
+                "id": "Q559270",
+                "label": "The Twilight Zone"
+            },
+            {
+                "id": "Q742103",
+                "label": "The Twilight Zone"
+            },
+            {
+                "id": "1963-01-01T00:00:00Z",
+                "label": "1963"
+            },
+            {
+                "id": "Q2228924",
+                "label": "The Twilight Zone Radio Dramas"
+            }
+        ],
+        "disambiguations": [
+            [
+                "1959",
+                "1959-01-01T00:00:00Z"
+            ],
+            [
+                "1963",
+                "1963-01-01T00:00:00Z"
+            ],
+            [
+                "The Twilight Zone",
+                "Q559270"
+            ],
+            [
+                "4 (1963)",
+                "Q4571012"
+            ],
+            [
+                "series",
+                "Q2228924"
+            ],
+            [
+                "The Twilight Zone (1959 TV series)",
+                "Q742103"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q742103",
+            "label": "The Twilight Zone"
+        }
+    },
+    {
+        "evidence_text": "Museum of Modern Art, Its first successful loan exhibition was in November 1929, displaying paintings by Van Gogh, Gauguin, Cézanne, and Seurat.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q34013",
+                "label": "Georges Seurat"
+            },
+            {
+                "id": "Q17437796",
+                "label": "featured article"
+            },
+            {
+                "id": "Q11629",
+                "label": "painting"
+            },
+            {
+                "id": "Q188740",
+                "label": "Museum of Modern Art"
+            },
+            {
+                "id": "Q35548",
+                "label": "Paul C\\u00E9zanne"
+            },
+            {
+                "id": "1929-01-01T00:00:00Z",
+                "label": "1929"
+            },
+            {
+                "id": "Q37693",
+                "label": "Paul Gauguin"
+            }
+        ],
+        "disambiguations": [
+            [
+                "1929",
+                "1929-01-01T00:00:00Z"
+            ],
+            [
+                "painting",
+                "Q11629"
+            ],
+            [
+                "Van Gogh",
+                "Q17437796"
+            ],
+            [
+                "Gauguin",
+                "Q37693"
+            ],
+            [
+                "Cézanne",
+                "Q35548"
+            ],
+            [
+                "Seurat",
+                "Q34013"
+            ],
+            [
+                "Museum of Modern Art",
+                "Q188740"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q188740",
+            "label": "Museum of Modern Art"
+        }
+    },
+    {
+        "evidence_text": "Tommy Robredo, He then was upset by Jürgen Melzer in his first match at the Paris Masters.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            },
+            {
+                "id": "Q213199",
+                "label": "Tommy Robredo"
+            },
+            {
+                "id": "Q603665",
+                "label": "2001 Paris Masters"
+            },
+            {
+                "id": "Q223549",
+                "label": "J\\u00FCrgen Melzer"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Paris Masters",
+                "Q603665"
+            ],
+            [
+                "Jürgen Melzer",
+                "Q223549"
+            ],
+            [
+                "Tommy",
+                "Q17437798"
+            ],
+            [
+                "Tommy Robredo",
+                "Q213199"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q213199"
+        }
+    },
+    {
+        "evidence_text": "The Musical Box, composer, Peter Gabriel",
+        "wikidata_entities": [
+            {
+                "id": "Q1097491",
+                "label": "The Musical Box"
+            },
+            {
+                "id": "Q175195",
+                "label": "Peter Gabriel"
+            }
+        ],
+        "disambiguations": [
+            [
+                "The Musical Box",
+                "Q1097491"
+            ],
+            [
+                "Peter Gabriel",
+                "Q175195"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q175195",
+            "label": "Peter Gabriel"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "June 9, 1815 – End of the Congress of Vienna: The new European political situation is set.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "1815-01-01T00:00:00Z",
+                "label": "1815"
+            },
+            {
+                "id": "Q120",
+                "label": "June"
+            },
+            {
+                "id": "Q2618",
+                "label": "9 June"
+            },
+            {
+                "id": "Q46362",
+                "label": "Congress of Vienna"
+            },
+            {
+                "id": "1815-06-09T00:00:00Z",
+                "label": "9 June 1815"
+            },
+            {
+                "id": "Q6948",
+                "label": "1815"
+            }
+        ],
+        "disambiguations": [
+            [
+                "June 9, 1815",
+                "1815-06-09T00:00:00Z"
+            ],
+            [
+                "1815",
+                "1815-01-01T00:00:00Z"
+            ],
+            [
+                "Congress of Vienna",
+                "Q46362"
+            ],
+            [
+                "June",
+                "Q120"
+            ],
+            [
+                "1815",
+                "Q6948"
+            ],
+            [
+                "June 9",
+                "Q2618"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q2618",
+            "label": "9 June"
+        }
+    },
+    {
+        "evidence_text": "Harry Potter (film series), Film is Chamber of Secrets, Rotten Tomatoes is 83% (7.21/10 average rating) (236 reviews), Metacritic is 63 (35 reviews), CinemaScore is A+",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "Q150248",
+                "label": "Metacritic"
+            },
+            {
+                "id": "Q216930",
+                "label": "Harry Potter film series"
+            },
+            {
+                "id": "Q17580674",
+                "label": "featured portal"
+            },
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            },
+            {
+                "id": "Q105584",
+                "label": "Rotten Tomatoes"
+            },
+            {
+                "id": "Q24856",
+                "label": "film series"
+            },
+            {
+                "id": "Q174097",
+                "label": "Hogwarts"
+            },
+            {
+                "id": "Q2972775",
+                "label": "CinemaScore"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Chamber of Secrets",
+                "Q174097"
+            ],
+            [
+                "Rotten Tomatoes",
+                "Q105584"
+            ],
+            [
+                "Harry Potter",
+                "Q17437798"
+            ],
+            [
+                "film series",
+                "Q24856"
+            ],
+            [
+                "CinemaScore",
+                "Q2972775"
+            ],
+            [
+                "Metacritic",
+                "Q150248"
+            ],
+            [
+                "Film",
+                "Q17580674"
+            ],
+            [
+                "Harry Potter (film series)",
+                "Q216930"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q216930",
+            "label": "Harry Potter film series"
+        }
+    },
+    {
+        "evidence_text": "Moons of Saturn, The innermost large moons of Saturn orbit within its tenuous E Ring, along with three smaller moons of the Alkyonides group.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q2537",
+                "label": "natural satellite"
+            },
+            {
+                "id": "Q17506997",
+                "label": "featured list"
+            },
+            {
+                "id": "Q2350201",
+                "label": "Alkyonides"
+            },
+            {
+                "id": "Q17437796",
+                "label": "featured article"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Alkyonides",
+                "Q2350201"
+            ],
+            [
+                "Saturn",
+                "Q17437796"
+            ],
+            [
+                "moons",
+                "Q2537"
+            ],
+            [
+                "Moon",
+                "Q17437796"
+            ],
+            [
+                "Moons of Saturn",
+                "Q17506997"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q1972"
+        }
+    },
+    {
+        "evidence_text": "Older (Royseven song), from the album '' The Art of Insincerity, Genre, Rock",
+        "source": "info",
+        "wikidata_entities": [
+            {
+                "id": "Q7375238",
+                "label": "Royseven"
+            },
+            {
+                "id": "Q188451",
+                "label": "music genre"
+            },
+            {
+                "id": "Q7714454",
+                "label": "The Art of Insincerity"
+            },
+            {
+                "id": "Q11399",
+                "label": "rock music"
+            },
+            {
+                "id": "Q7085553",
+                "label": "Older"
+            }
+        ],
+        "disambiguations": [
+            [
+                "The Art of Insincerity",
+                "Q7714454"
+            ],
+            [
+                "Royseven",
+                "Q7375238"
+            ],
+            [
+                "Genre",
+                "Q188451"
+            ],
+            [
+                "Rock",
+                "Q11399"
+            ],
+            [
+                "Older (Royseven song)",
+                "Q7085553"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q7085553"
+        }
+    },
+    {
+        "evidence_text": "Dean Cain, Year is 2014, Title is Small Town Santa, Role is Sheriff Rick Langston, Notes is ",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "2014-01-01T00:00:00Z",
+                "label": "2014"
+            },
+            {
+                "id": "Q313788",
+                "label": "Dean Cain"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2014",
+                "2014-01-01T00:00:00Z"
+            ],
+            [
+                "Dean Cain",
+                "Q313788"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q313788"
+        }
+    },
+    {
+        "evidence_text": "Transformers, genre, action film",
+        "wikidata_entities": [
+            {
+                "id": "Q171453",
+                "label": "Transformers"
+            },
+            {
+                "id": "Q188473",
+                "label": "action film"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Transformers",
+                "Q171453"
+            ],
+            [
+                "action film",
+                "Q188473"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q171453",
+            "label": "Transformers"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Central Java, Name is Semarang Regency, Capital is Ungaran, Area (km2) is , Population  2000 Census is , Population  2010 Census is , Population  2020 Census is ",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "2010-01-01T00:00:00Z",
+                "label": "2010"
+            },
+            {
+                "id": "Q3757",
+                "label": "Java"
+            },
+            {
+                "id": "Q10687",
+                "label": "Semarang"
+            },
+            {
+                "id": "Q3183016",
+                "label": "Ungaran"
+            },
+            {
+                "id": "2000-01-01T00:00:00Z",
+                "label": "2000"
+            },
+            {
+                "id": "Q3557",
+                "label": "Central Java Province"
+            },
+            {
+                "id": "2020-01-01T00:00:00Z",
+                "label": "2020"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2000",
+                "2000-01-01T00:00:00Z"
+            ],
+            [
+                "2010",
+                "2010-01-01T00:00:00Z"
+            ],
+            [
+                "2020",
+                "2020-01-01T00:00:00Z"
+            ],
+            [
+                "Semarang Regency",
+                "Q10687"
+            ],
+            [
+                "Ungaran",
+                "Q3183016"
+            ],
+            [
+                "Java",
+                "Q3757"
+            ],
+            [
+                "Central Java",
+                "Q3557"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q3557"
+        }
+    },
+    {
+        "evidence_text": "AMC Fayetteville 14, operator, AMC Theatres",
+        "wikidata_entities": [
+            {
+                "id": "Q43093477",
+                "label": "AMC Fayetteville 14"
+            },
+            {
+                "id": "Q294721",
+                "label": "AMC Theatres"
+            }
+        ],
+        "disambiguations": [
+            [
+                "AMC Fayetteville 14",
+                "Q43093477"
+            ],
+            [
+                "AMC Theatres",
+                "Q294721"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q294721",
+            "label": "AMC Theatres"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Surrey Scorchers, Season is 2008–09, Division is BBL, Tier is I, Regular Season is 4th, Post-Season is 33, Trophy is 21, Cup is 12, Head Coach is 42",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "Q3645013",
+                "label": "2008\\u201309 British Basketball League season"
+            },
+            {
+                "id": "2008-01-01T00:00:00Z",
+                "label": "2008"
+            },
+            {
+                "id": "Q918813",
+                "label": "British Basketball League"
+            },
+            {
+                "id": "Q269597",
+                "label": "Surrey Scorchers"
+            },
+            {
+                "id": "Q23276",
+                "label": "Surrey"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2008",
+                "2008-01-01T00:00:00Z"
+            ],
+            [
+                "2008–09",
+                "Q3645013"
+            ],
+            [
+                "Surrey",
+                "Q23276"
+            ],
+            [
+                "BBL",
+                "Q918813"
+            ],
+            [
+                "Surrey Scorchers",
+                "Q269597"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q269597"
+        }
+    },
+    {
+        "evidence_text": "Sartorius muscle, This combination of lateral rotation and flexion of the hip and flexion of the knee gave tailors particularly developed sartorius muscles.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q11681869",
+                "label": "flexion"
+            },
+            {
+                "id": "Q17506997",
+                "label": "featured list"
+            },
+            {
+                "id": "Q7365",
+                "label": "muscle"
+            },
+            {
+                "id": "Q740337",
+                "label": "sartorius muscle"
+            }
+        ],
+        "disambiguations": [
+            [
+                "lateral rotation",
+                "Q17506997"
+            ],
+            [
+                "flexion",
+                "Q11681869"
+            ],
+            [
+                "muscle",
+                "Q7365"
+            ],
+            [
+                "Sartorius muscle",
+                "Q740337"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q740337"
+        }
+    },
+    {
+        "evidence_text": "MegaCom, number of subscribers, \"+3000000\"",
+        "wikidata_entities": [
+            {
+                "id": "Q3165467",
+                "label": "MegaCom"
+            },
+            {
+                "id": "\"+3000000\"",
+                "label": "\"+3000000\""
+            }
+        ],
+        "disambiguations": [
+            [
+                "MegaCom",
+                "Q3165467"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "P3744",
+            "label": "number of subscribers"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Unapologetically (EP), Monét X Change co-wrote all four tracks.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q55092372",
+                "label": "Mon\\u00E9t X Change"
+            },
+            {
+                "id": "Q65076367",
+                "label": "Unapologetically"
+            },
+            {
+                "id": "Q169930",
+                "label": "extended play"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Monét X Change",
+                "Q55092372"
+            ],
+            [
+                "EP",
+                "Q169930"
+            ],
+            [
+                "Unapologetically (EP)",
+                "Q65076367"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q65076367"
+        }
+    },
+    {
+        "evidence_text": "Supreme Court of Canada, Mahmud Jamal has the briefest tenure, having been appointed 321 days ago.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q196615",
+                "label": "Supreme Court of Canada"
+            },
+            {
+                "id": "Q107278146",
+                "label": "Q107278146"
+            },
+            {
+                "id": "Q17437796",
+                "label": "featured article"
+            },
+            {
+                "id": "Q4967012",
+                "label": "brief"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Mahmud Jamal",
+                "Q107278146"
+            ],
+            [
+                "Canada",
+                "Q17437796"
+            ],
+            [
+                "brief",
+                "Q4967012"
+            ],
+            [
+                "Supreme Court of Canada",
+                "Q196615"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q196615"
+        }
+    },
+    {
+        "evidence_text": "Liar (Rollins Band song), Chart (1994) is Dutch100 28",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "Q6540232",
+                "label": "Liar"
+            },
+            {
+                "id": "Q1891331",
+                "label": "Rollins Band"
+            },
+            {
+                "id": "1994-01-01T00:00:00Z",
+                "label": "1994"
+            }
+        ],
+        "disambiguations": [
+            [
+                "1994",
+                "1994-01-01T00:00:00Z"
+            ],
+            [
+                "Rollins Band",
+                "Q1891331"
+            ],
+            [
+                "Liar (Rollins Band song)",
+                "Q6540232"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q6540232"
+        }
+    },
+    {
+        "evidence_text": "Q3669829, named after, Saint Christopher",
+        "wikidata_entities": [
+            {
+                "id": "Q3669829",
+                "label": "Q3669829"
+            },
+            {
+                "id": "Q193507",
+                "label": "Saint Christopher"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Q3669829",
+                "Q3669829"
+            ],
+            [
+                "Saint Christopher",
+                "Q193507"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q193507",
+            "label": "Saint Christopher"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Holodomor, There were more than 200,000 people sentenced under this law.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q165058",
+                "label": "Holodomor"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Holodomor",
+                "Q165058"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q165058"
+        }
+    },
+    {
+        "evidence_text": "Beat It, Chart (1983) is France ( IFOP ), Position is 5",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            },
+            {
+                "id": "1983-01-01T00:00:00Z",
+                "label": "1983"
+            },
+            {
+                "id": "Q1144387",
+                "label": "Ifop"
+            }
+        ],
+        "disambiguations": [
+            [
+                "1983",
+                "1983-01-01T00:00:00Z"
+            ],
+            [
+                "IFOP",
+                "Q1144387"
+            ],
+            [
+                "Beat It",
+                "Q17437798"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q210218"
+        }
+    },
+    {
+        "evidence_text": "Anderson v. City of Hermosa Beach, Pictures, such as paintings and photographs are considered pure expression regardless of the media by which the forms of expression are conveyed.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q30593094",
+                "label": "Anderson v. City of Hermosa Beach"
+            },
+            {
+                "id": "Q828712",
+                "label": "Hermosa Beach"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Hermosa Beach",
+                "Q828712"
+            ],
+            [
+                "Anderson v. City of Hermosa Beach",
+                "Q30593094"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q30593094"
+        }
+    },
+    {
+        "evidence_text": "Henry VIII, He annotated many books and published one of his own, and he had numerous pamphlets and lectures prepared to support the reformation of the church.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            },
+            {
+                "id": "Q675493",
+                "label": "Henry VII"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Henry VII",
+                "Q675493"
+            ],
+            [
+                "Henry VIII",
+                "Q17437798"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q38370",
+            "label": "Henry VIII"
+        }
+    },
+    {
+        "evidence_text": "Takahiro Mukai, participant in, 1986 Asian Games",
+        "wikidata_entities": [
+            {
+                "id": "Q7677060",
+                "label": "Takahiro Mukai"
+            },
+            {
+                "id": "Q495611",
+                "label": "1986 Asian Games"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Takahiro Mukai",
+                "Q7677060"
+            ],
+            [
+                "1986 Asian Games",
+                "Q495611"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q495611",
+            "label": "1986 Asian Games"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Men in Black: The Game, SouthPeak Interactive announced the game in 1997, with plans to release it for Windows 95 on November 25 of that year, to coincide with the home video release of the film.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q83370",
+                "label": "Windows 95"
+            },
+            {
+                "id": "Q3854596",
+                "label": "Men in Black: The Game"
+            },
+            {
+                "id": "1997-01-01T00:00:00Z",
+                "label": "1997"
+            },
+            {
+                "id": "Q6816260",
+                "label": "Men in Black"
+            }
+        ],
+        "disambiguations": [
+            [
+                "1997",
+                "1997-01-01T00:00:00Z"
+            ],
+            [
+                "SouthPeak Interactive",
+                null
+            ],
+            [
+                "Men in Black",
+                "Q6816260"
+            ],
+            [
+                "Windows 95",
+                "Q83370"
+            ],
+            [
+                "Men in Black: The Game",
+                "Q3854596"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q3854596",
+            "label": "Men in Black: The Game"
+        }
+    },
+    {
+        "evidence_text": "Brown dwarf, However, GD 165B, the cool companion to the white dwarf GD 165, had none of the hallmark TiO features of M dwarfs.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q14957153",
+                "label": "GD 165"
+            },
+            {
+                "id": "Q17437796",
+                "label": "featured article"
+            },
+            {
+                "id": "Q5893",
+                "label": "Red dwarf"
+            },
+            {
+                "id": "Q101600",
+                "label": "Brown dwarf"
+            }
+        ],
+        "disambiguations": [
+            [
+                "white dwarf",
+                "Q17437796"
+            ],
+            [
+                "M dwarfs",
+                "Q5893"
+            ],
+            [
+                "GD 165",
+                "Q14957153"
+            ],
+            [
+                "Brown dwarf",
+                "Q101600"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q101600"
+        }
+    },
+    {
+        "evidence_text": "Gallium, However, these amounts are not extractable without mining of the host materials (see below).",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Gallium",
+                "Q17437798"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q861",
+            "label": "gallium"
+        }
+    },
+    {
+        "evidence_text": "Borat Subsequent Moviefilm, distributed by, Amazon Prime Video",
+        "wikidata_entities": [
+            {
+                "id": "Q99671372",
+                "label": "Borat Subsequent Moviefilm"
+            },
+            {
+                "id": "Q4740856",
+                "label": "Amazon Prime Video"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Borat Subsequent Moviefilm",
+                "Q99671372"
+            ],
+            [
+                "Amazon Prime Video",
+                "Q4740856"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q4740856",
+            "label": "Amazon Prime Video"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Sydney (disambiguation), Sydney is the state capital of New South Wales and the most populous city in Australia.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q3130",
+                "label": "Sydney"
+            },
+            {
+                "id": "Q229096",
+                "label": "Sydney"
+            },
+            {
+                "id": "Q22981376",
+                "label": "Help:Disambiguation"
+            }
+        ],
+        "disambiguations": [
+            [
+                "disambiguation",
+                "Q22981376"
+            ],
+            [
+                "Sydney",
+                "Q3130"
+            ],
+            [
+                "Sydney (disambiguation)",
+                "Q229096"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q229096"
+        }
+    },
+    {
+        "evidence_text": "Rome, Georgia, Year is 2014, Title is The System, Notes is ",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "2014-01-01T00:00:00Z",
+                "label": "2014"
+            },
+            {
+                "id": "Q1428",
+                "label": "Georgia"
+            },
+            {
+                "id": "Q6580",
+                "label": "Rome, Georgia"
+            },
+            {
+                "id": "Q220",
+                "label": "Rome"
+            },
+            {
+                "id": "Q15983488",
+                "label": "The System"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2014",
+                "2014-01-01T00:00:00Z"
+            ],
+            [
+                "The System",
+                "Q15983488"
+            ],
+            [
+                "Georgia",
+                "Q1428"
+            ],
+            [
+                "Rome",
+                "Q220"
+            ],
+            [
+                "Rome, Georgia",
+                "Q6580"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q6580"
+        }
+    },
+    {
+        "evidence_text": "Phil LaMarr, LaMarr also was in the Yum Corp Sexual Harassment training videos.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q356541",
+                "label": "Phil LaMarr"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Phil LaMarr",
+                "Q356541"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q356541"
+        }
+    },
+    {
+        "evidence_text": "Peter Simon Pallas, residence, The Hague",
+        "wikidata_entities": [
+            {
+                "id": "Q155914",
+                "label": "Peter Simon Pallas"
+            },
+            {
+                "id": "Q36600",
+                "label": "The Hague"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Peter Simon Pallas",
+                "Q155914"
+            ],
+            [
+                "The Hague",
+                "Q36600"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q155914",
+            "label": "Peter Simon Pallas"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Fi (TV series), But in general, the music of the series, including the main title's music were composed by Cem Öget.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q29056778",
+                "label": "Fi"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Fi (TV series)",
+                "Q29056778"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q29056778"
+        }
+    },
+    {
+        "evidence_text": "Big Mac, The Big Mac had two previous names, both of which failed in the marketplace: the Aristocrat, which Americans found difficult to pronounce and understand, and Blue Ribbon Burger.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q506796",
+                "label": "Big Mac"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Big Mac",
+                "Q506796"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q506796"
+        }
+    },
+    {
+        "evidence_text": "Characters of Dragon Prince, Despite the difference in their stations the two young men became as close as brothers.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q11818516",
+                "label": "Characters of Dragon Prince"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Characters of Dragon Prince",
+                "Q11818516"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q11818516"
+        }
+    },
+    {
+        "evidence_text": "Leslie Ward, Ward's clubs included the Arts, the Orleans, the Fielding, the Lotus, the Punch Bowl, and the Beefsteak, where he was one of the original members.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q4879775",
+                "label": "Beefsteak Club"
+            },
+            {
+                "id": "Q7714609",
+                "label": "The Arts Club"
+            },
+            {
+                "id": "Q1236680",
+                "label": "Gentlemen's club"
+            },
+            {
+                "id": "Q920924",
+                "label": "Leslie Ward"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Beefsteak",
+                "Q4879775"
+            ],
+            [
+                "clubs",
+                "Q1236680"
+            ],
+            [
+                "Arts",
+                "Q7714609"
+            ],
+            [
+                "Leslie Ward",
+                "Q920924"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q920924",
+            "label": "Leslie Ward"
+        }
+    },
+    {
+        "evidence_text": "Encyclopedia, In particular, dictionary entries often contain factual information about the thing named by the word.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q5292",
+                "label": "encyclopedia"
+            },
+            {
+                "id": "Q23622",
+                "label": "dictionary"
+            },
+            {
+                "id": "Q188572",
+                "label": "fact"
+            },
+            {
+                "id": "Q11028",
+                "label": "information"
+            }
+        ],
+        "disambiguations": [
+            [
+                "information",
+                "Q11028"
+            ],
+            [
+                "dictionary",
+                "Q23622"
+            ],
+            [
+                "factual",
+                "Q188572"
+            ],
+            [
+                "Encyclopedia",
+                "Q5292"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q5292",
+            "label": "encyclopedia"
+        }
+    },
+    {
+        "evidence_text": "Orange juice, In the United Kingdom, major orange juice brands include Del Monte and Princes.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q13191",
+                "label": "orange"
+            },
+            {
+                "id": "Q3211367",
+                "label": "Fresh Del Monte Produce"
+            },
+            {
+                "id": "Q7244433",
+                "label": "Princes"
+            },
+            {
+                "id": "Q219059",
+                "label": "orange juice"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Del Monte",
+                "Q3211367"
+            ],
+            [
+                "Princes",
+                "Q7244433"
+            ],
+            [
+                "orange",
+                "Q13191"
+            ],
+            [
+                "Orange juice",
+                "Q219059"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q219059",
+            "label": "orange juice"
+        }
+    },
+    {
+        "evidence_text": "The Hobbit: The Desolation of Smaug (soundtrack), The Hobbit, Composed, 2010  ( 2010 ) –2014",
+        "source": "info",
+        "wikidata_entities": [
+            {
+                "id": "Q18655207",
+                "label": "The Hobbit: The Desolation of Smaug"
+            },
+            {
+                "id": "2010-01-01T00:00:00Z",
+                "label": "2010"
+            },
+            {
+                "id": "2014-01-01T00:00:00Z",
+                "label": "2014"
+            },
+            {
+                "id": "Q719915",
+                "label": "The Hobbit: The Desolation of Smaug"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2010",
+                "2010-01-01T00:00:00Z"
+            ],
+            [
+                "2010",
+                "2010-01-01T00:00:00Z"
+            ],
+            [
+                "2014",
+                "2014-01-01T00:00:00Z"
+            ],
+            [
+                "The Desolation of Smaug",
+                "Q719915"
+            ],
+            [
+                "The Hobbit: The Desolation of Smaug (soundtrack)",
+                "Q18655207"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q18655207"
+        }
+    },
+    {
+        "evidence_text": "Michael Sellers (actor), His close friend at prep school (Hall School, Hampstead) was actor Donald Sinden's son Marc Sinden.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q6755876",
+                "label": "Marc Sinden"
+            },
+            {
+                "id": "Q6834281",
+                "label": "Michael Sellers"
+            },
+            {
+                "id": "Q432316",
+                "label": "Donald Sinden"
+            },
+            {
+                "id": "Q5642636",
+                "label": "The Hall School"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Hall School, Hampstead",
+                "Q5642636"
+            ],
+            [
+                "Donald Sinden",
+                "Q432316"
+            ],
+            [
+                "prep school",
+                null
+            ],
+            [
+                "Marc Sinden",
+                "Q6755876"
+            ],
+            [
+                "Michael Sellers (actor)",
+                "Q6834281"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q6834281"
+        }
+    },
+    {
+        "evidence_text": "African Americans, In the Spanish Louisiana, Governor Bernardo de Gálvez organized Spanish free Black men into two militia companies to defend New Orleans during the American Revolution.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q49085",
+                "label": "African Americans"
+            },
+            {
+                "id": "Q34404",
+                "label": "New Orleans"
+            },
+            {
+                "id": "Q153936",
+                "label": "Militia"
+            },
+            {
+                "id": "Q846570",
+                "label": "Americans of the United States"
+            },
+            {
+                "id": "Q3183734",
+                "label": "ethnic group in Africa"
+            },
+            {
+                "id": "Q192769",
+                "label": "American Revolution"
+            },
+            {
+                "id": "Q817393",
+                "label": "black people"
+            },
+            {
+                "id": "Q748300",
+                "label": "Louisiana"
+            },
+            {
+                "id": "Q386687",
+                "label": "Bernardo de G\\u00E1lvez y Madrid, Count of G\\u00E1lvez"
+            }
+        ],
+        "disambiguations": [
+            [
+                "American Revolution",
+                "Q192769"
+            ],
+            [
+                "Bernardo de Gálvez",
+                "Q386687"
+            ],
+            [
+                "Spanish Louisiana",
+                "Q748300"
+            ],
+            [
+                "New Orleans",
+                "Q34404"
+            ],
+            [
+                "Americans",
+                "Q846570"
+            ],
+            [
+                "African",
+                "Q3183734"
+            ],
+            [
+                "militia",
+                "Q153936"
+            ],
+            [
+                "Black",
+                "Q817393"
+            ],
+            [
+                "African Americans",
+                "Q49085"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q49085",
+            "label": "African American"
+        }
+    },
+    {
+        "evidence_text": "My Song for You (Demi Lovato and Joe Jonas song), Chart (2012) is US Kid Digital Songs ( Billboard ), Peakposition is 2",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            },
+            {
+                "id": "Q191088",
+                "label": "Joe Jonas"
+            },
+            {
+                "id": "Q17011796",
+                "label": "My Song for You"
+            },
+            {
+                "id": "2012-01-01T00:00:00Z",
+                "label": "2012"
+            },
+            {
+                "id": "Q7366",
+                "label": "Song"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2012",
+                "2012-01-01T00:00:00Z"
+            ],
+            [
+                "Kid Digital Songs",
+                null
+            ],
+            [
+                "Demi Lovato",
+                "Q17437798"
+            ],
+            [
+                "Joe Jonas",
+                "Q191088"
+            ],
+            [
+                "Billboard",
+                "Q17437798"
+            ],
+            [
+                "Song",
+                "Q7366"
+            ],
+            [
+                "My Song for You (Demi Lovato and Joe Jonas song)",
+                "Q17011796"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q17011796",
+            "label": "My Song for You"
+        }
+    },
+    {
+        "evidence_text": "copyright law of Afghanistan, main subject, copyright, of, Afghanistan",
+        "wikidata_entities": [
+            {
+                "id": "Q4689166",
+                "label": "copyright law of Afghanistan"
+            },
+            {
+                "id": "Q1297822",
+                "label": "copyright"
+            },
+            {
+                "id": "Q889",
+                "label": "Afghanistan"
+            }
+        ],
+        "disambiguations": [
+            [
+                "copyright law of Afghanistan",
+                "Q4689166"
+            ],
+            [
+                "copyright",
+                "Q1297822"
+            ],
+            [
+                "Afghanistan",
+                "Q889"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q1297822",
+            "label": "copyright"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Switch (2011 film), She identifies Sophie as her daughter, from a photo.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q3506673",
+                "label": "Switch"
+            },
+            {
+                "id": "2011-01-01T00:00:00Z",
+                "label": "2011"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2011",
+                "2011-01-01T00:00:00Z"
+            ],
+            [
+                "Switch (2011 film)",
+                "Q3506673"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q3506673"
+        }
+    },
+    {
+        "evidence_text": "Huntington Beach, California, Huntington Beach sits above a large natural fault structure containing oil.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q99",
+                "label": "California"
+            },
+            {
+                "id": "Q5917",
+                "label": "Huntington Beach, California"
+            }
+        ],
+        "disambiguations": [
+            [
+                "California",
+                "Q99"
+            ],
+            [
+                "Huntington Beach, California",
+                "Q5917"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q5917",
+            "label": "Huntington Beach, California"
+        }
+    },
+    {
+        "evidence_text": "Crane (bird), He describes as untruthful an account that the crane carries a touchstone inside it that can be used to test for gold when vomited up. (",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q25365",
+                "label": "Gruidae"
+            },
+            {
+                "id": "Q1482030",
+                "label": "touchstone"
+            }
+        ],
+        "disambiguations": [
+            [
+                "touchstone",
+                "Q1482030"
+            ],
+            [
+                "Crane (bird)",
+                "Q25365"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q25365"
+        }
+    },
+    {
+        "evidence_text": "Bad Mergentheim, country, Allied-occupied Germany, end time, 23 May \"1949, start time, 21 April \"1945",
+        "wikidata_entities": [
+            {
+                "id": "Q61942",
+                "label": "Bad Mergentheim"
+            },
+            {
+                "id": "Q2415901",
+                "label": "Allied-occupied Germany"
+            },
+            {
+                "id": "\"1949-05-23T00:00:00Z\"",
+                "label": "23 May \"1949"
+            },
+            {
+                "id": "\"1945-04-21T00:00:00Z\"",
+                "label": "21 April \"1945"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Bad Mergentheim",
+                "Q61942"
+            ],
+            [
+                "Allied-occupied Germany",
+                "Q2415901"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q2415901",
+            "label": "Allied-occupied Germany"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Sassinak, Sassinak is a science fiction novel by American writers Anne McCaffrey and Elizabeth Moon, published by Baen Books in 1990.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q799732",
+                "label": "Baen Books"
+            },
+            {
+                "id": "Q233046",
+                "label": "Anne McCaffrey"
+            },
+            {
+                "id": "1990-01-01T00:00:00Z",
+                "label": "1990"
+            },
+            {
+                "id": "Q243027",
+                "label": "Elizabeth Moon"
+            },
+            {
+                "id": "Q7425778",
+                "label": "Sassinak"
+            },
+            {
+                "id": "Q24925",
+                "label": "science fiction"
+            }
+        ],
+        "disambiguations": [
+            [
+                "1990",
+                "1990-01-01T00:00:00Z"
+            ],
+            [
+                "science fiction",
+                "Q24925"
+            ],
+            [
+                "Anne McCaffrey",
+                "Q233046"
+            ],
+            [
+                "Elizabeth Moon",
+                "Q243027"
+            ],
+            [
+                "Baen Books",
+                "Q799732"
+            ],
+            [
+                "Sassinak",
+                "Q7425778"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q7425778",
+            "label": "Sassinak"
+        }
+    },
+    {
+        "evidence_text": "Environmental law, Implementing Environmental Law.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q328798",
+                "label": "environmental law"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Environmental law",
+                "Q328798"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q328798"
+        }
+    },
+    {
+        "evidence_text": "Pell number, Since √2 is irrational, we cannot have H/P = √2, i.e., H 2 P 2 = 2 P 2 P 2 . {",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q1386491",
+                "label": "Pell number"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Pell number",
+                "Q1386491"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q1386491"
+        }
+    },
+    {
+        "evidence_text": "Safety of a bivalent, killed, whole-cell oral cholera vaccine in pregnant women in Bangladesh: evidence from a randomized placebo-controlled trial, cites work, Efficacy of a low-cost, inactivated whole-cell oral cholera vaccine: results from 3 years of follow-up of a randomized, controlled trial",
+        "wikidata_entities": [
+            {
+                "id": "Q64054143",
+                "label": "Safety of a bivalent, killed, whole-cell oral cholera vaccine in pregnant women in Bangladesh: evidence from a randomized placebo-controlled trial"
+            },
+            {
+                "id": "Q34058784",
+                "label": "Efficacy of a low-cost, inactivated whole-cell oral cholera vaccine: results from 3 years of follow-up of a randomized, controlled trial"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Safety of a bivalent, killed, whole-cell oral cholera vaccine in pregnant women in Bangladesh: evidence from a randomized placebo-controlled trial",
+                "Q64054143"
+            ],
+            [
+                "Efficacy of a low-cost, inactivated whole-cell oral cholera vaccine: results from 3 years of follow-up of a randomized, controlled trial",
+                "Q34058784"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q64054143",
+            "label": "Safety of a bivalent, killed, whole-cell oral cholera vaccine in pregnant women in Bangladesh: evidence from a randomized placebo-controlled trial"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Physical medicine and rehabilitation conditions in the Astrodome clinic after hurricane Katrina., main subject, Hurricane Katrina",
+        "wikidata_entities": [
+            {
+                "id": "Q39098676",
+                "label": "Physical medicine and rehabilitation conditions in the Astrodome clinic after hurricane Katrina."
+            },
+            {
+                "id": "Q16422",
+                "label": "Hurricane Katrina"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Physical medicine and rehabilitation conditions in the Astrodome clinic after hurricane Katrina.",
+                "Q39098676"
+            ],
+            [
+                "Hurricane Katrina",
+                "Q16422"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q16422",
+            "label": "Hurricane Katrina"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Alexandra Feodorovna (Alix of Hesse), The future Edward VII told his mother Queen Victoria that \"Ella will move heaven and earth to get [Alix] to marry a Grand Duke.\"",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q17437796",
+                "label": "featured article"
+            },
+            {
+                "id": "Q152094",
+                "label": "Alexandra Fyodorovna"
+            },
+            {
+                "id": "Q57207",
+                "label": "Alexandra Feodorovna"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Alexandra Feodorovna",
+                "Q57207"
+            ],
+            [
+                "Queen Victoria",
+                "Q17437796"
+            ],
+            [
+                "Edward VII",
+                "Q17437796"
+            ],
+            [
+                "Alexandra Feodorovna (Alix of Hesse)",
+                "Q152094"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q152094",
+            "label": "Alexandra Feodorovna"
+        }
+    },
+    {
+        "evidence_text": "Rescue Me (American TV series), During his funeral, Sean and Maggie decide to get married at the cemetery.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q901441",
+                "label": "Rescue Me"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Rescue Me (American TV series)",
+                "Q901441"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q901441"
+        }
+    },
+    {
+        "evidence_text": "Croatia, The country contains three ecoregions: Dinaric Mountains mixed forests, Pannonian mixed forests, and Illyrian deciduous forests.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q1269041",
+                "label": "Illyrian deciduous forests"
+            },
+            {
+                "id": "Q771194",
+                "label": "Pannonian mixed forests"
+            },
+            {
+                "id": "Q167420",
+                "label": "Croats"
+            },
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            },
+            {
+                "id": "Q3845967",
+                "label": "Dinaric Mountains mixed forests"
+            },
+            {
+                "id": "Q295469",
+                "label": "ecoregion"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Dinaric Mountains mixed forests",
+                "Q3845967"
+            ],
+            [
+                "Illyrian deciduous forests",
+                "Q1269041"
+            ],
+            [
+                "Pannonian mixed forests",
+                "Q771194"
+            ],
+            [
+                "ecoregions",
+                "Q295469"
+            ],
+            [
+                "Croat",
+                "Q167420"
+            ],
+            [
+                "Croatia",
+                "Q17437798"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q224",
+            "label": "Croatia"
+        }
+    },
+    {
+        "evidence_text": "Adele, On 28 October 2021, pre-sale tickets for her two shows in Hyde Park, London, scheduled for 1 and 2 July 2022, sold out in less than an hour.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "2021-01-01T00:00:00Z",
+                "label": "2021"
+            },
+            {
+                "id": "2021-10-28T00:00:00Z",
+                "label": "28 October 2021"
+            },
+            {
+                "id": "2022-07-02T00:00:00Z",
+                "label": "2 July 2022"
+            },
+            {
+                "id": "2022-01-01T00:00:00Z",
+                "label": "2022"
+            },
+            {
+                "id": "Q23215",
+                "label": "Adele"
+            },
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            }
+        ],
+        "disambiguations": [
+            [
+                "28 October 2021",
+                "2021-10-28T00:00:00Z"
+            ],
+            [
+                "2 July 2022",
+                "2022-07-02T00:00:00Z"
+            ],
+            [
+                "2021",
+                "2021-01-01T00:00:00Z"
+            ],
+            [
+                "2022",
+                "2022-01-01T00:00:00Z"
+            ],
+            [
+                "Hyde Park, London",
+                "Q17437798"
+            ],
+            [
+                "Adele",
+                "Q23215"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q23215",
+            "label": "Adele"
+        }
+    },
+    {
+        "evidence_text": "Jefferson City, Missouri, Daniel Boone's son, Daniel Morgan Boone, would later lay out Jefferson City in the early 19th century.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q17437796",
+                "label": "featured article"
+            },
+            {
+                "id": "Q1581",
+                "label": "Missouri"
+            },
+            {
+                "id": "Q25004852",
+                "label": "U.S. Route 54 in Missouri"
+            },
+            {
+                "id": "Q28180",
+                "label": "Jefferson City"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Daniel Boone",
+                "Q17437796"
+            ],
+            [
+                "Missouri",
+                "Q1581"
+            ],
+            [
+                " ",
+                "Q25004852"
+            ],
+            [
+                "Jefferson City, Missouri",
+                "Q28180"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q28180",
+            "label": "Jefferson City"
+        }
+    },
+    {
+        "evidence_text": "Pel%C3%A9 (2021 film), Pelé, Country, United Kingdom",
+        "source": "info",
+        "wikidata_entities": [
+            {
+                "id": "2021-01-01T00:00:00Z",
+                "label": "2021"
+            },
+            {
+                "id": "Q145",
+                "label": "United Kingdom"
+            },
+            {
+                "id": "Q105694930",
+                "label": "Q105694930"
+            },
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2021",
+                "2021-01-01T00:00:00Z"
+            ],
+            [
+                "United Kingdom",
+                "Q145"
+            ],
+            [
+                "Pelé",
+                "Q17437798"
+            ],
+            [
+                "Pel%C3%A9 (2021 film)",
+                "Q105694930"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q105694930",
+            "label": "Pel\\u00E9"
+        }
+    },
+    {
+        "evidence_text": "Eurocopter AS332 Super Puma, The helicopter was a total loss as it burned out completely.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q12257149",
+                "label": "AS332 Super Puma"
+            },
+            {
+                "id": "Q155573",
+                "label": "Airbus Helicopters"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Eurocopter",
+                "Q155573"
+            ],
+            [
+                "Eurocopter AS332 Super Puma",
+                "Q12257149"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q12257149",
+            "label": "Eurocopter AS332 Super Puma"
+        }
+    },
+    {
+        "evidence_text": "The Big Sleep, In \"The Curtain\", the description of Mrs. O'Mara's room is just enough to establish the setting: This room had a white carpet from wall to wall.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q1649862",
+                "label": "The Big Sleep"
+            },
+            {
+                "id": "Q1137931",
+                "label": "The Big Sleep"
+            }
+        ],
+        "disambiguations": [
+            [
+                "The Big Sleep",
+                "Q1137931"
+            ],
+            [
+                "The Big Sleep",
+                "Q1649862"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q1649862",
+            "label": "The Big Sleep"
+        }
+    },
+    {
+        "evidence_text": "Meryl Streep, student of, Jean Arthur",
+        "wikidata_entities": [
+            {
+                "id": "Q873",
+                "label": "Meryl Streep"
+            },
+            {
+                "id": "Q229338",
+                "label": "Jean Arthur"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Meryl Streep",
+                "Q873"
+            ],
+            [
+                "Jean Arthur",
+                "Q229338"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q873",
+            "label": "Meryl Streep"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Gomez (band), The first single \"Catch Me Up\" entered the UK top 40 in March 2004 and \"Silence\" was released as the second single.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "2004-01-01T00:00:00Z",
+                "label": "2004"
+            },
+            {
+                "id": "Q1536853",
+                "label": "Gomez"
+            },
+            {
+                "id": "Q215380",
+                "label": "musical group"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2004",
+                "2004-01-01T00:00:00Z"
+            ],
+            [
+                "band",
+                "Q215380"
+            ],
+            [
+                "Gomez (band)",
+                "Q1536853"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q1536853"
+        }
+    },
+    {
+        "evidence_text": "Colt's Manufacturing Company, In fact, during the time period it won only one contract, the M4 carbine.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q745019",
+                "label": "Colt's Manufacturing Company"
+            },
+            {
+                "id": "Q257050",
+                "label": "Colt"
+            },
+            {
+                "id": "Q214688",
+                "label": "M4"
+            }
+        ],
+        "disambiguations": [
+            [
+                "M4 carbine",
+                "Q214688"
+            ],
+            [
+                "Colt",
+                "Q257050"
+            ],
+            [
+                "Colt's Manufacturing Company",
+                "Q745019"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q745019"
+        }
+    },
+    {
+        "evidence_text": "South Korean won, In 1965, 100 won notes (series III) were printed using intaglio printing techniques, for the first time on domestically printed notes, to reduce counterfeiting.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "1965-01-01T00:00:00Z",
+                "label": "1965"
+            },
+            {
+                "id": "Q202040",
+                "label": "South Korean won"
+            },
+            {
+                "id": "Q884",
+                "label": "South Korea"
+            },
+            {
+                "id": "Q194177",
+                "label": "intaglio printing"
+            }
+        ],
+        "disambiguations": [
+            [
+                "1965",
+                "1965-01-01T00:00:00Z"
+            ],
+            [
+                "intaglio printing",
+                "Q194177"
+            ],
+            [
+                "South Korea",
+                "Q884"
+            ],
+            [
+                "South Korean won",
+                "Q202040"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q202040",
+            "label": "South Korean won"
+        }
+    },
+    {
+        "evidence_text": "Home Alone 2: Lost in New York, It follows Kevin McCallister (Culkin), as he is separated from his family on their holiday vacation, this time in New York City.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            },
+            {
+                "id": "Q60",
+                "label": "New York City"
+            },
+            {
+                "id": "Q221202",
+                "label": "Home Alone 2: Lost in New York"
+            }
+        ],
+        "disambiguations": [
+            [
+                "New York City",
+                "Q60"
+            ],
+            [
+                "Home Alone",
+                "Q17437798"
+            ],
+            [
+                "New York",
+                "Q60"
+            ],
+            [
+                "Home Alone 2: Lost in New York",
+                "Q221202"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q221202"
+        }
+    },
+    {
+        "evidence_text": "Swiss Literary Archives, , Director, Irmgard Wirtz Eybl",
+        "source": "info",
+        "wikidata_entities": [
+            {
+                "id": "Q675617",
+                "label": "Swiss Literary Archives"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Swiss Literary Archives",
+                "Q675617"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q675617"
+        }
+    },
+    {
+        "evidence_text": "Penn State Nittany Lions women's soccer, Penn State Nittany Lions women's soccer, Home, Away",
+        "source": "info",
+        "wikidata_entities": [
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            },
+            {
+                "id": "Q739627",
+                "label": "Pennsylvania State University"
+            },
+            {
+                "id": "Q606060",
+                "label": "women's association football"
+            }
+        ],
+        "disambiguations": [
+            [
+                "women's soccer",
+                "Q606060"
+            ],
+            [
+                "Penn State",
+                "Q739627"
+            ],
+            [
+                "Penn State Nittany Lions women's soccer",
+                "Q17437798"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q22096395"
+        }
+    },
+    {
+        "evidence_text": "Colin McNab, participant in, 31st Chess Olympiad, number of matches played/races/starts, \"+11\", position played on team / speciality, board 2, number of losses, \"+5\", number of wins, \"+3\", number of draws/ties, \"+3\", number of points/goals/set scored, \"+4.5\", country for sport, Scotland",
+        "wikidata_entities": [
+            {
+                "id": "Q1108579",
+                "label": "Colin McNab"
+            },
+            {
+                "id": "Q287098",
+                "label": "31st Chess Olympiad"
+            },
+            {
+                "id": "\"+11\"",
+                "label": "\"+11\""
+            },
+            {
+                "id": "Q102285746",
+                "label": "board 2"
+            },
+            {
+                "id": "\"+5\"",
+                "label": "\"+5\""
+            },
+            {
+                "id": "\"+3\"",
+                "label": "\"+3\""
+            },
+            {
+                "id": "\"+3\"",
+                "label": "\"+3\""
+            },
+            {
+                "id": "\"+4.5\"",
+                "label": "\"+4.5\""
+            },
+            {
+                "id": "Q22",
+                "label": "Scotland"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Colin McNab",
+                "Q1108579"
+            ],
+            [
+                "31st Chess Olympiad",
+                "Q287098"
+            ],
+            [
+                "board 2",
+                "Q102285746"
+            ],
+            [
+                "Scotland",
+                "Q22"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q287098",
+            "label": "31st Chess Olympiad"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Later, lyrics by, Sil Austin",
+        "wikidata_entities": [
+            {
+                "id": "Q96954902",
+                "label": "Later"
+            },
+            {
+                "id": "Q1690247",
+                "label": "Sil Austin"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Later",
+                "Q96954902"
+            ],
+            [
+                "Sil Austin",
+                "Q1690247"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q96954902",
+            "label": "Later"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Jos\\u00E9 S\\u00E1nchez-Gavito, occupation, classical composer",
+        "wikidata_entities": [
+            {
+                "id": "Q5945698",
+                "label": "Jos\\u00E9 S\\u00E1nchez-Gavito"
+            },
+            {
+                "id": "Q21680663",
+                "label": "classical composer"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Jos\\u00E9 S\\u00E1nchez-Gavito",
+                "Q5945698"
+            ],
+            [
+                "classical composer",
+                "Q21680663"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q21680663",
+            "label": "classical composer"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Elizabeth, Margaret and Larry, screenwriter, Larry David",
+        "wikidata_entities": [
+            {
+                "id": "Q108763841",
+                "label": "Elizabeth, Margaret and Larry"
+            },
+            {
+                "id": "Q23728",
+                "label": "Larry David"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Elizabeth, Margaret and Larry",
+                "Q108763841"
+            ],
+            [
+                "Larry David",
+                "Q23728"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q23728",
+            "label": "Larry David"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Eurovision Song Contest 2010, topic's main template, Q22344523",
+        "wikidata_entities": [
+            {
+                "id": "Q10158",
+                "label": "Eurovision Song Contest 2010"
+            },
+            {
+                "id": "Q22344523",
+                "label": "Q22344523"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Eurovision Song Contest 2010",
+                "Q10158"
+            ],
+            [
+                "Q22344523",
+                "Q22344523"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q10158",
+            "label": "Eurovision Song Contest 2010"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Noggin (brand), premiered a year afterwards.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q7047483",
+                "label": "Noggin"
+            },
+            {
+                "id": "Q7047470",
+                "label": "Noggin"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Noggin",
+                "Q7047470"
+            ],
+            [
+                "Noggin (brand)",
+                "Q7047483"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q7047483"
+        }
+    },
+    {
+        "evidence_text": "Karl Popper, Sir Karl Popper CH   FRS   FBA, Alma mater, University of Vienna",
+        "source": "info",
+        "wikidata_entities": [
+            {
+                "id": "Q1137694",
+                "label": "Order of the Companions of Honour"
+            },
+            {
+                "id": "Q209690",
+                "label": "Sir"
+            },
+            {
+                "id": "Q27988727",
+                "label": "Fellow of the British Academy"
+            },
+            {
+                "id": "Q15631401",
+                "label": "Fellow of the Royal Society"
+            },
+            {
+                "id": "Q165980",
+                "label": "University of Vienna"
+            },
+            {
+                "id": "Q81244",
+                "label": "Karl Popper"
+            }
+        ],
+        "disambiguations": [
+            [
+                "University of Vienna",
+                "Q165980"
+            ],
+            [
+                "Sir",
+                "Q209690"
+            ],
+            [
+                "FRS",
+                "Q15631401"
+            ],
+            [
+                "FBA",
+                "Q27988727"
+            ],
+            [
+                "CH",
+                "Q1137694"
+            ],
+            [
+                "Karl Popper",
+                "Q81244"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q81244"
+        }
+    },
+    {
+        "evidence_text": "England national football B team, Terry Venables held two in 1994, but a four-year hiatus followed.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q314039",
+                "label": "Terry Venables"
+            },
+            {
+                "id": "Q1110944",
+                "label": "England B national football team"
+            },
+            {
+                "id": "Q17437796",
+                "label": "featured article"
+            },
+            {
+                "id": "1994-01-01T00:00:00Z",
+                "label": "1994"
+            }
+        ],
+        "disambiguations": [
+            [
+                "1994",
+                "1994-01-01T00:00:00Z"
+            ],
+            [
+                "Terry Venables",
+                "Q314039"
+            ],
+            [
+                "football",
+                "Q17437796"
+            ],
+            [
+                "England national football B team",
+                "Q1110944"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q1110944"
+        }
+    },
+    {
+        "evidence_text": "1979 World Series of Poker, Event is $1,000 Seven Card Stud Split, Winner is Gary Berland, Prize is $20,400, Runner-up is Unknown",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "1979-01-01T00:00:00Z",
+                "label": "1979"
+            },
+            {
+                "id": "Q724754",
+                "label": "Gary Berland"
+            },
+            {
+                "id": "Q819961",
+                "label": "World Series of Poker"
+            },
+            {
+                "id": "Q1362201",
+                "label": "1979 World Series of Poker"
+            }
+        ],
+        "disambiguations": [
+            [
+                "1979",
+                "1979-01-01T00:00:00Z"
+            ],
+            [
+                "World Series of Poker",
+                "Q819961"
+            ],
+            [
+                "Seven Card Stud",
+                false
+            ],
+            [
+                "Gary Berland",
+                "Q724754"
+            ],
+            [
+                "1979 World Series of Poker",
+                "Q1362201"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q1362201"
+        }
+    },
+    {
+        "evidence_text": "Astoria, Oregon, The fourth album of the pop punk band The Ataris was titled So Long, Astoria as an allusion to The Goonies.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q1373222",
+                "label": "The Ataris"
+            },
+            {
+                "id": "Q824",
+                "label": "Oregon"
+            },
+            {
+                "id": "Q155417",
+                "label": "Astoria"
+            },
+            {
+                "id": "Q490724",
+                "label": "Astoria"
+            },
+            {
+                "id": "Q636043",
+                "label": "The Goonies"
+            },
+            {
+                "id": "Q3963166",
+                "label": "So Long, Astoria"
+            }
+        ],
+        "disambiguations": [
+            [
+                "So Long, Astoria",
+                "Q3963166"
+            ],
+            [
+                "The Goonies",
+                "Q636043"
+            ],
+            [
+                "The Ataris",
+                "Q1373222"
+            ],
+            [
+                "Astoria",
+                "Q155417"
+            ],
+            [
+                "Oregon",
+                "Q824"
+            ],
+            [
+                "Astoria, Oregon",
+                "Q490724"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q490724",
+            "label": "Astoria"
+        }
+    },
+    {
+        "evidence_text": "Student, These can often involve petty crime, such as the theft of traffic cones and other public property, or hoaxes.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q48282",
+                "label": "student"
+            },
+            {
+                "id": "Q694547",
+                "label": "traffic cone"
+            }
+        ],
+        "disambiguations": [
+            [
+                "traffic cones",
+                "Q694547"
+            ],
+            [
+                "Student",
+                "Q48282"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q48282",
+            "label": "Student"
+        }
+    },
+    {
+        "evidence_text": "Made (2001 film), Made, Edited by, Curtiss Clayton",
+        "source": "info",
+        "wikidata_entities": [
+            {
+                "id": "2001-01-01T00:00:00Z",
+                "label": "2001"
+            },
+            {
+                "id": "Q2557556",
+                "label": "Made"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2001",
+                "2001-01-01T00:00:00Z"
+            ],
+            [
+                "Made (2001 film)",
+                "Q2557556"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q2557556",
+            "label": "Made"
+        }
+    },
+    {
+        "evidence_text": "1998 Indian Men's Team Badminton Championships, competition class, men's team",
+        "wikidata_entities": [
+            {
+                "id": "Q68069670",
+                "label": "1998 Indian Men's Team Badminton Championships"
+            },
+            {
+                "id": "Q57749193",
+                "label": "men's team"
+            }
+        ],
+        "disambiguations": [
+            [
+                "1998 Indian Men's Team Badminton Championships",
+                "Q68069670"
+            ],
+            [
+                "men's team",
+                "Q57749193"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q57749193",
+            "label": "men's team"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Killing Eve, For the role of Villanelle, the production considered over 100 actresses before Jodie Comer was cast, about a month after Oh.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q39049904",
+                "label": "Killing Eve"
+            },
+            {
+                "id": "Q16567346",
+                "label": "Jodie Comer"
+            },
+            {
+                "id": "Q55391537",
+                "label": "Codename Villanelle"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Jodie Comer",
+                "Q16567346"
+            ],
+            [
+                "Villanelle",
+                "Q55391537"
+            ],
+            [
+                "Killing Eve",
+                "Q39049904"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q39049904",
+            "label": "Killing Eve"
+        }
+    },
+    {
+        "evidence_text": "Q3654166, sports season of league or competition, Serie A",
+        "wikidata_entities": [
+            {
+                "id": "Q3654166",
+                "label": "Q3654166"
+            },
+            {
+                "id": "Q1635558",
+                "label": "Serie A"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Q3654166",
+                "Q3654166"
+            ],
+            [
+                "Serie A",
+                "Q1635558"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q1635558",
+            "label": "Serie A"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Glucose, Names, Other names,  Blood sugars Dextrose Corn sugar d -Glucose Grape sugar",
+        "source": "info",
+        "wikidata_entities": [
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            },
+            {
+                "id": "Q37525",
+                "label": "glucose"
+            },
+            {
+                "id": "Q11575",
+                "label": "maize"
+            }
+        ],
+        "disambiguations": [
+            [
+                "sugar",
+                "Q17437798"
+            ],
+            [
+                "Corn",
+                "Q11575"
+            ],
+            [
+                "Glucose",
+                "Q37525"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q37525"
+        }
+    },
+    {
+        "evidence_text": "Luka Berulava, given name, Luka",
+        "wikidata_entities": [
+            {
+                "id": "Q67920087",
+                "label": "Luka Berulava"
+            },
+            {
+                "id": "Q18760839",
+                "label": "Luka"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Luka Berulava",
+                "Q67920087"
+            ],
+            [
+                "Luka",
+                "Q18760839"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q18760839",
+            "label": "Luka"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Little Big Shot, His name cleared, Steve marries Jean and they adopt Gloria.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q6649096",
+                "label": "Little Big Shot"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Little Big Shot",
+                "Q6649096"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q6649096"
+        }
+    },
+    {
+        "evidence_text": "The Elder Scrolls V: Skyrim, The production was supervised by Todd Howard, who has been the director of several titles released by Bethesda Softworks.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q466530",
+                "label": "The Elder Scrolls"
+            },
+            {
+                "id": "Q2606967",
+                "label": "Todd Howard"
+            },
+            {
+                "id": "Q684425",
+                "label": "Bethesda Softworks"
+            },
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Bethesda Softworks",
+                "Q684425"
+            ],
+            [
+                "The Elder Scrolls",
+                "Q466530"
+            ],
+            [
+                "Todd Howard",
+                "Q2606967"
+            ],
+            [
+                "The Elder Scrolls V: Skyrim",
+                "Q17437798"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q323862",
+            "label": "The Elder Scrolls V: Skyrim"
+        }
+    },
+    {
+        "evidence_text": "Red Bull KTM Factory Racing, Year is No., Motorcycle is Name, Tyres is 1, Riders is 2, Races is 3, Rider's standings is 4, Team standings is 5, Manufacturers' standings is 6",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "Q1573456",
+                "label": "Q1573456"
+            },
+            {
+                "id": "Q215657",
+                "label": "KTM"
+            },
+            {
+                "id": "Q51482",
+                "label": "Red Bull"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Red Bull",
+                "Q51482"
+            ],
+            [
+                "KTM",
+                "Q215657"
+            ],
+            [
+                "Red Bull KTM Factory Racing",
+                "Q1573456"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q1573456"
+        }
+    },
+    {
+        "evidence_text": "Cooper's Hill Cheese-Rolling and Wake, Points are awarded for grade of cheese difficulty and speed of descent.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q10943",
+                "label": "cheese"
+            },
+            {
+                "id": "Q240682",
+                "label": "Cooper's Hill Cheese-Rolling and Wake"
+            }
+        ],
+        "disambiguations": [
+            [
+                "cheese",
+                "Q10943"
+            ],
+            [
+                "Cooper's Hill Cheese-Rolling and Wake",
+                "Q240682"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q240682",
+            "label": "Cooper's Hill Cheese-Rolling and Wake"
+        }
+    },
+    {
+        "evidence_text": "Ray Romano, Association is Primetime Emmy Awards, Year is 2003, Category is Outstanding Lead Actor in a Comedy Series, Nominated Work is Everybody Loves Raymond, Results is , Ref is ",
+        "source": "table",
+        "wikidata_entities": [
+            {
+                "id": "Q208568",
+                "label": "Everybody Loves Raymond"
+            },
+            {
+                "id": "Q1044427",
+                "label": "Primetime Emmy Award"
+            },
+            {
+                "id": "2003-01-01T00:00:00Z",
+                "label": "2003"
+            },
+            {
+                "id": "Q220836",
+                "label": "Ray Romano"
+            },
+            {
+                "id": "Q989442",
+                "label": "Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2003",
+                "2003-01-01T00:00:00Z"
+            ],
+            [
+                "Outstanding Lead Actor in a Comedy Series",
+                "Q989442"
+            ],
+            [
+                "Everybody Loves Raymond",
+                "Q208568"
+            ],
+            [
+                "Primetime Emmy Awards",
+                "Q1044427"
+            ],
+            [
+                "Ray Romano",
+                "Q220836"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q220836",
+            "label": "Ray Romano"
+        }
+    },
+    {
+        "evidence_text": "Barcelona, Today, the headquarters and a large factory of SEAT (the largest Spanish automobile manufacturer) are in one of its suburbs.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q1492",
+                "label": "Barcelona"
+            },
+            {
+                "id": "Q188217",
+                "label": "SEAT"
+            },
+            {
+                "id": "Q81949",
+                "label": "Barcelona Province"
+            },
+            {
+                "id": "Q1321",
+                "label": "Spanish"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Barcelona",
+                "Q81949"
+            ],
+            [
+                "Spanish",
+                "Q1321"
+            ],
+            [
+                "SEAT",
+                "Q188217"
+            ],
+            [
+                "Barcelona",
+                "Q1492"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q1492",
+            "label": "Barcelona"
+        }
+    },
+    {
+        "evidence_text": "Mariel Hemingway, Mariel Hemingway at IMDb Mariel Hemingway at AllMovie Mariel Hemingway.com – official website for Mariel's book Healthy Living",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q116156",
+                "label": "Mariel"
+            },
+            {
+                "id": "Q477809",
+                "label": "AllMovie"
+            },
+            {
+                "id": "Q37312",
+                "label": "Internet Movie Database"
+            },
+            {
+                "id": "Q234101",
+                "label": "Mariel Hemingway"
+            }
+        ],
+        "disambiguations": [
+            [
+                "AllMovie",
+                "Q477809"
+            ],
+            [
+                "Mariel",
+                "Q116156"
+            ],
+            [
+                "IMDb",
+                "Q37312"
+            ],
+            [
+                "Mariel Hemingway",
+                "Q234101"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q234101",
+            "label": "Mariel Hemingway"
+        }
+    },
+    {
+        "evidence_text": "London Borough of Hackney, The borough contains 25 conservation areas including Clapton Square and urban open-spaces including Clapton Common and Clissold Park.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q205679",
+                "label": "London Borough of Hackney"
+            },
+            {
+                "id": "Q211690",
+                "label": "London borough"
+            },
+            {
+                "id": "Q5637386",
+                "label": "Hackney parks and open spaces"
+            },
+            {
+                "id": "Q473972",
+                "label": "protected area"
+            },
+            {
+                "id": "Q23306",
+                "label": "Greater London"
+            },
+            {
+                "id": "Q58888182",
+                "label": "Hackney"
+            },
+            {
+                "id": "Q3680838",
+                "label": "Clissold Park"
+            },
+            {
+                "id": "Q5125916",
+                "label": "Clapton Square"
+            }
+        ],
+        "disambiguations": [
+            [
+                "conservation areas",
+                "Q473972"
+            ],
+            [
+                "urban open-spaces",
+                "Q5637386"
+            ],
+            [
+                "Clapton Square",
+                "Q5125916"
+            ],
+            [
+                "Clissold Park",
+                "Q3680838"
+            ],
+            [
+                "Borough",
+                "Q211690"
+            ],
+            [
+                "Hackney",
+                "Q58888182"
+            ],
+            [
+                "London",
+                "Q23306"
+            ],
+            [
+                "London Borough of Hackney",
+                "Q205679"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q205679"
+        }
+    },
+    {
+        "evidence_text": "Hughes, Arkansas, About 31.7% of families and 38.0% of the population were below the poverty line, including 53.3% of those under age 18 and 31.5% of those age 65 or over.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q79678",
+                "label": "Hughes"
+            },
+            {
+                "id": "Q205660",
+                "label": "poverty line"
+            },
+            {
+                "id": "Q1612",
+                "label": "Arkansas"
+            }
+        ],
+        "disambiguations": [
+            [
+                "poverty line",
+                "Q205660"
+            ],
+            [
+                "Arkansas",
+                "Q1612"
+            ],
+            [
+                "Hughes, Arkansas",
+                "Q79678"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q79678"
+        }
+    },
+    {
+        "evidence_text": "Amarillo, Texas, Lake Meredith is located northeast of Amarillo and in 2005 it contained at least 114 billion US gallons (430,000,000 m3) of water.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q1228993",
+                "label": "The Fall"
+            },
+            {
+                "id": "Q1439",
+                "label": "Texas"
+            },
+            {
+                "id": "2005-01-01T00:00:00Z",
+                "label": "2005"
+            },
+            {
+                "id": "Q17437798",
+                "label": "good article"
+            },
+            {
+                "id": "Q1801005",
+                "label": "Lake Meredith"
+            }
+        ],
+        "disambiguations": [
+            [
+                "2005",
+                "2005-01-01T00:00:00Z"
+            ],
+            [
+                "Lake Meredith",
+                "Q1801005"
+            ],
+            [
+                "Amarillo",
+                "Q1228993"
+            ],
+            [
+                "Texas",
+                "Q1439"
+            ],
+            [
+                "Amarillo, Texas",
+                "Q17437798"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q51691",
+            "label": "Amarillo"
+        }
+    },
+    {
+        "evidence_text": "Commando (video game), Commando spawned numerous clones following its release.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q1115150",
+                "label": "Commando"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Commando (video game)",
+                "Q1115150"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q1115150"
+        }
+    },
+    {
+        "evidence_text": "Serena Williams, She defeated Yulia Putintseva in the quarterfinals despite being five points away from losing.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q60743219",
+                "label": "2018 US Open \\u2013 Women's Singles final"
+            },
+            {
+                "id": "Q11459",
+                "label": "Serena Williams"
+            },
+            {
+                "id": "Q2429984",
+                "label": "Yulia Putintseva"
+            }
+        ],
+        "disambiguations": [
+            [
+                "Yulia Putintseva",
+                "Q2429984"
+            ],
+            [
+                "final",
+                "Q60743219"
+            ],
+            [
+                "Serena Williams",
+                "Q11459"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q11459"
+        }
+    },
+    {
+        "evidence_text": "Telephone, Hand-held mobile phones were introduced for personal service starting in 1973.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q17517",
+                "label": "mobile phone"
+            },
+            {
+                "id": "1973-01-01T00:00:00Z",
+                "label": "1973"
+            },
+            {
+                "id": "Q11035",
+                "label": "telephone"
+            }
+        ],
+        "disambiguations": [
+            [
+                "1973",
+                "1973-01-01T00:00:00Z"
+            ],
+            [
+                "mobile phones",
+                "Q17517"
+            ],
+            [
+                "Telephone",
+                "Q11035"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q11035"
+        }
+    },
+    {
+        "evidence_text": "My Fellow Americans, cast member, Dan Aykroyd",
+        "wikidata_entities": [
+            {
+                "id": "Q1305069",
+                "label": "My Fellow Americans"
+            },
+            {
+                "id": "Q105221",
+                "label": "Dan Aykroyd"
+            }
+        ],
+        "disambiguations": [
+            [
+                "My Fellow Americans",
+                "Q1305069"
+            ],
+            [
+                "Dan Aykroyd",
+                "Q105221"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q105221",
+            "label": "Dan Aykroyd"
+        },
+        "source": "kb"
+    },
+    {
+        "evidence_text": "Intention, In the philosophy of action, a central question is whether it is true for all intentional actions that they are caused or accompanied by intentions.",
+        "source": "text",
+        "wikidata_entities": [
+            {
+                "id": "Q4026292",
+                "label": "Action"
+            },
+            {
+                "id": "Q706622",
+                "label": "intention"
+            },
+            {
+                "id": "Q175661",
+                "label": "action theory"
+            }
+        ],
+        "disambiguations": [
+            [
+                "philosophy of action",
+                "Q175661"
+            ],
+            [
+                "actions",
+                "Q4026292"
+            ],
+            [
+                "Intention",
+                "Q706622"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q706622"
+        }
+    },
+    {
+        "evidence_text": "Chester, South Carolina, Chester, South Carolina, City",
+        "source": "info",
+        "wikidata_entities": [
+            {
+                "id": "Q497377",
+                "label": "Chester County"
+            },
+            {
+                "id": "Q2323222",
+                "label": "Chester"
+            },
+            {
+                "id": "Q515",
+                "label": "city"
+            },
+            {
+                "id": "Q1456",
+                "label": "South Carolina"
+            }
+        ],
+        "disambiguations": [
+            [
+                "South Carolina",
+                "Q1456"
+            ],
+            [
+                "Chester",
+                "Q497377"
+            ],
+            [
+                "City",
+                "Q515"
+            ],
+            [
+                "Chester, South Carolina",
+                "Q2323222"
+            ]
+        ],
+        "retrieved_for_entity": {
+            "id": "Q2323222"
+        }
+    }
+]
