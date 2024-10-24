@@ -17,20 +17,18 @@ Finally, by equipping our retriever for open-domain heterogeneous QA systems, we
 
 ### 1. CompMix-IR Benchmark
 
-### 1.1 The corpus of CompMix-IR:
+For more detailed information about the CompMix-IR Benchmark, please refer to the [CompMix_IR](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR) directory.
+
+### 1.1 Corpus of CompMix-IR:
 
 Download from Google Drive: [Link](https://drive.google.com/file/d/1sDmPieBkAnO9Rb7oDDXAgRDd5SRo_rPP/view?usp=sharing)
 
 Or HuggingFace Dataset: [Link](https://huggingface.co/datasets/ZhishanQ/CompMix-IR)
 
-The complete version of the CompMix_IR heterogeneous knowledge corpus is approximately 3-4 GB in size.
-
-We also provide a smaller file, which is a subset, to help readers understand its content and structure:
-
-[subset of corpus](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/subset_kb_wikipedia_mixed_rd.json)
+The complete version of the CompMix_IR heterogeneous knowledge corpus is approximately 3-4 GB in size. We also provide a smaller file, which is a subset, to help readers understand its content and structure: [subset of corpus](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/subset_kb_wikipedia_mixed_rd.json)
 
 
-### 1.2 The QA pairs of CompMix:
+### 1.2 QA pairs of CompMix:
 
 CompMix QA pairs: [CompMix](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/CompMix)
 
@@ -46,17 +44,15 @@ Code to evaluate whether the retrieved evidence is positive to the question:
 
 [Code to judge relevance](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/eval_part)
 
-### 1.4 Data-Text Pairs
+### 1.4 Data-Text Pairs 
+
+It is used in training stages 1 and 2.
 
 Google Drive: [Link](https://drive.google.com/file/d/1AOyY0T_FQo7Br6o7KfkNSnoW9L9dZYXb/view?usp=sharing)
 
-The complete version of Data-Text Pairs is about 1.2 GB.
+The complete version of Data-Text Pairs is about 1.2 GB. We also provide a smaller file, which is a subset, to help readers understand its content and structure: [subset of data-text pairs](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/data_2_text_subset.json)
 
-We also provide a smaller file, which is a subset, to help readers understand its content and structure:
-
-[subset of data-text pairs](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/data_2_text_subset.json)
-
-
+The [CompMix_IR](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR) directory provides detailed explanations for the keys within each dict item.
 
 ### 2. UniHGKR model checkpoints
  
