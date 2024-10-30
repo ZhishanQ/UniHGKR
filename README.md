@@ -1,6 +1,12 @@
-# UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers
+<h2 align="center"> <a href="https://arxiv.org/abs/2410.20163">UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers</a></h2>
 
-Code and model from our [paper](https://arxiv.org/abs/).
+🌟 This is the official repository for Dense Heterogeneous Knowledge Retrievers: **UniHGKR**, and the heterogeneous knowledge retrieval benchmark **CompMix-IR**.
+
+<h5 align="center">
+
+[![arXiv](https://img.shields.io/badge/Arxiv-2410.20163-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.20163)
+
+</h5>
 
 ## Abstract
 
@@ -12,10 +18,11 @@ Extensive experiments show that UniHGKR consistently outperforms state-of-the-ar
 Finally, by equipping our retriever for open-domain heterogeneous QA systems, we achieve a new state-of-the-art result on the popular [ConvMix](https://convinse.mpi-inf.mpg.de/) task, with an absolute improvement of up to 4.80 points.
 
 
+## Notes:
 
 **We are preparing to update more code and benchmark datasets. Please be patient.**
 
-### 1. CompMix-IR Benchmark
+## 1. CompMix-IR Benchmark
 
 For more detailed information about the CompMix-IR Benchmark, please refer to the [CompMix_IR](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR) directory.
 
@@ -54,7 +61,7 @@ The complete version of Data-Text Pairs is about 1.2 GB. We also provide a small
 
 The [CompMix_IR](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR) directory provides detailed explanations for the keys within each dict item.
 
-### 2. UniHGKR model checkpoints
+## 2. UniHGKR model checkpoints
  
 | Mdeol Name            | Description                                                                                                                | Huggingface  Link                                                              | Usage Example                                                                                                         |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -64,7 +71,7 @@ The [CompMix_IR](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR) direc
 | UniHGKR-7B-pretrained | The model was trained after Stages 1 and 2. It needs to be fine-tuned before being used for an information retrieval task. | [UniHGKR-7B-pretrained](https://huggingface.co/ZhishanQ/UniHGKR-7B-pretrained) |                                                                                                                       |
 
 
-### 3. Code to train and evalutation
+## 3. Code to train and evalutation
 
 #### 3.1 Evalutation on CompMix-IR
 
@@ -77,7 +84,17 @@ Our variant model **UniHGKR-base-beir** adapted for evaluation on BEIR can be fo
 The code for evaluation on BEIR at: [evaluation_beir](https://github.com/ZhishanQ/UniHGKR/tree/main/evaluation_beir).
 
 
-## Cite
+## ✏️ Citation
+If you find our paper and resource useful in your research, please consider giving a star :star: and citation :pencil:.
+
 ```
-temp 
+ 
 ```
+
+## 📧 contact
+```
+
+dmin0007[at]student.monash.edu
+
+```
+
