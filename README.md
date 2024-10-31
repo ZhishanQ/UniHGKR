@@ -86,7 +86,12 @@ The code for evaluation on BEIR at: [evaluation_beir](https://github.com/Zhishan
 If you find our paper and resource useful in your research, please consider giving a star :star: and citation :pencil:.
 
 ```
- 
+@article{min2024unihgkr,
+  title={UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers},
+  author={Min, Dehai and Xu, Zhiyang and Qi, Guilin and Huang, Lifu and You, Chenyu},
+  journal={arXiv preprint arXiv:2410.20163},
+  year={2024}
+}
 ```
 
 ## 📧 contact
