@@ -28,7 +28,7 @@ For more detailed information about the CompMix-IR Benchmark, please refer to th
 
 ### 1.1 Corpus of CompMix-IR:
 
-Download from ☁️ Google Drive: [Link](https://drive.google.com/file/d/1sDmPieBkAnO9Rb7oDDXAgRDd5SRo_rPP/view?usp=sharing)  or 🤗 HuggingFace Dataset: [Link](https://huggingface.co/datasets/ZhishanQ/CompMix-IR)
+Download from 🤗 HuggingFace Dataset: [Link](https://huggingface.co/datasets/ZhishanQ/CompMix-IR) or ☁️ Google Drive: [Link](https://drive.google.com/file/d/1sDmPieBkAnO9Rb7oDDXAgRDd5SRo_rPP/view?usp=sharing) .
 
 The complete version of the CompMix_IR heterogeneous knowledge corpus is approximately 3-4 GB in size. We also provide a smaller file, which is a subset, to help readers understand its content and structure: [subset of corpus](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/subset_kb_wikipedia_mixed_rd.json)
 
@@ -53,7 +53,7 @@ Code to evaluate whether the retrieved evidence is positive to the question:
 
 It is used in training stages 1 and 2.
 
-Download from ☁️ Google Drive: [Link](https://drive.google.com/file/d/1AOyY0T_FQo7Br6o7KfkNSnoW9L9dZYXb/view?usp=sharing)  or 🤗 HuggingFace Dataset: [Link](https://huggingface.co/datasets/ZhishanQ/UniHGKR_Date_Text_Pairs/tree/main)
+Download from 🤗 HuggingFace Dataset: [Link](https://huggingface.co/datasets/ZhishanQ/UniHGKR_Date_Text_Pairs/tree/main) or ☁️ Google Drive: [Link](https://drive.google.com/file/d/1AOyY0T_FQo7Br6o7KfkNSnoW9L9dZYXb/view?usp=sharing) .
 
 The complete version of Data-Text Pairs is about 1.2 GB. We also provide a smaller file, which is a subset, to help readers understand its content and structure: [subset of data-text pairs](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/data_2_text_subset.json)
 
