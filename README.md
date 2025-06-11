@@ -1,12 +1,16 @@
-<h2 align="center"> <a href="https://arxiv.org/abs/2410.20163">UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2410.20163">UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers (NAACL 2025 Oral)</a></h2>
 
-🌟 This is the official repository for Dense Heterogeneous Knowledge Retrievers: **UniHGKR**, and the heterogeneous knowledge retrieval benchmark **CompMix-IR**.
 
 <h5 align="center">
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2410.20163-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.20163)
+<a href="https://huggingface.co/collections/ZhishanQ/unihgkr-6846b60973fa75b04681a388"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-%F0%9F%A4%97-blue?logo=huggingface" height="20"></a>
 
 </h5>
+
+🌟 This is the official repository for Dense Heterogeneous Knowledge Retrievers: **UniHGKR**, and the heterogeneous knowledge retrieval benchmark **CompMix-IR**.
+
+![Overview](./assets/figure_1.png)
 
 ## Abstract
 
@@ -18,9 +22,11 @@ Extensive experiments show that UniHGKR consistently outperforms state-of-the-ar
 Finally, by equipping our retriever for open-domain heterogeneous QA systems, we achieve a new state-of-the-art result on the popular [ConvMix](https://convinse.mpi-inf.mpg.de/) task, with an absolute improvement of up to 4.80 points.
 
 
-## Notes:
+## 🚀🚀 News:
 
-**We are preparing to update more code and benchmark datasets. Please be patient.**
+- UniHGKR 3 stages training data are released at [🤗UniHGKR_training_data](https://huggingface.co/datasets/ZhishanQ/UniHGKR_training_data).
+
+- Training code for UniHGKR-base/UniHGKR-7B are released at [here](#3-code-to-train-and-evalutation).
 
 ## 1. CompMix-IR Benchmark
 
@@ -30,7 +36,7 @@ For more detailed information about the CompMix-IR Benchmark, please refer to th
 
 Download from 🤗 HuggingFace Dataset: [Link](https://huggingface.co/datasets/ZhishanQ/CompMix-IR).
 
-The complete version of the CompMix_IR heterogeneous knowledge corpus is approximately 3-4 GB in size. We also provide a smaller file, which is a subset, to help readers understand its content and structure: [subset of corpus](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/subset_kb_wikipedia_mixed_rd.json)
+The complete version of the CompMix_IR heterogeneous knowledge corpus is approximately 3-4 GB in size. We also provide a smaller file, which is a subset, to help readers understand its content and structure: [subset of corpus](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR/subset_kb_wikipedia_mixed_rd.json).
 
 
 ### 1.2 QA pairs of CompMix:
@@ -70,12 +76,22 @@ The [CompMix_IR](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR) direc
 
 ## 3. Code to train and evalutation
 
+### Environment
+
+- **UniHGKR-base**: please use this environment,[FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding/tree/master/research/baai_general_embedding).
+
+- **UniHGKR-7B**: please use this environment,[LLARA](https://github.com/FlagOpen/FlagEmbedding/tree/master/research/LLARA).
+
+
 ### 3.1 Download training dataset
 
 [🤗UniHGKR_training_data](https://huggingface.co/datasets/ZhishanQ/UniHGKR_training_data) includes all the files that are needed during our model's training. Please put the `UniHGKR_training_data` in the `src_for_train`.
 
+**Tips:**
 
-Execute the following shell command in the `src_for_train` folder:
+1. Execute the following shell command in the `src_for_train` folder:
+2. Ensure that the `logs` directory exists; otherwise, log files may not be generated properly. If the directory does not exist, you can create it using the command `mkdir -p logs`.  
+3. It is recommended to save the script content as a `.sh` file, such as `run_experiments.sh`. Add execute permission to the file: `chmod +x run_experiments.sh`.
 
 ### 3.1 Train UniHGKR-base
 
@@ -156,7 +172,7 @@ nohup torchrun --nnodes=1 --nproc_per_node 8  --master_port='29221' \
 ```
 
 
-### 3.2 Evalutation on CompMix-IR
+### 3.2 Evaluate UniHGKR-base on CompMix-IR
 
 **Step 1: semantic retrieval**
 
@@ -165,7 +181,7 @@ models=("ZhishanQ/UniHGKR-base")
 
 sources=("all" "kb" "info" "table" "text")
 # sources=("all")
-
+corpus_id=0
 # save_embedding : Whether to cache embeddings. 
 # Change batch_size according to your GPU memory.
 
@@ -230,7 +246,7 @@ The code for evaluation on BEIR at: [evaluation_beir](https://github.com/Zhishan
 
 
 Because the bm25 model with cpu is too slow, we split the questions into 5 parts and process them separately. 
-
+ 
 ``` shell
 #!/bin/bash
 
@@ -246,15 +262,135 @@ Then, run this code to merge them.
 python merge_bm25.py
 ```
 
+
+### 3.6 Train UniHGKR-7B
+
+**Step 1: Pretrain**
+
+Execute the following command in the `src_for_train/UniHGKR-7B-train_code/pretrain` directory, or directly use the pretrained model weights provided in [UniHGKR-7B-pretrained](https://huggingface.co/ZhishanQ/UniHGKR-7B-pretrained) in the finetuning stage.
+
+``` shell
+output_model_name="UniHGKR-7B-pretrained"
+llm_pretrain_data="../../UniHGKR_training_data/UniHGKR_7b_pretrain_data.jsonl"
+
+nohup torchrun --nproc_per_node 8 \
+run.py \
+--output_dir ./${output_model_name} \
+--model_name_or_path BAAI/LLARA-pretrain \
+--train_data ${llm_pretrain_data} \
+--learning_rate 1e-5 \
+--num_train_epochs 1 \
+--per_device_train_batch_size 384 \
+--gradient_accumulation_steps 1 \
+--dataloader_drop_last True \
+--cutoff_len 128 \
+--logging_steps 1 \
+--save_steps 500000 \
+--save_total_limit 1 \
+--gradient_checkpointing \
+--ddp_find_unused_parameters False \
+--use_flash_attn False \
+--deepspeed ../stage1.json \
+--warmup_ratio 0.1 \
+--remove_stop_words True \
+--use_lora False \
+--bf16 \
+--cache_dir ./LMs \
+--token ... > logs/${output_model_name}.log 2>&1 &
+```
+
+**Step 2: finetune**
+
+Execute the following command in the `src_for_train/UniHGKR-7B-train_code/finetune` directory, or directly use the pretrained model weights provided in [UniHGKR-7B](https://huggingface.co/ZhishanQ/UniHGKR-7B).
+
+``` shell
+base_model="../pretrain/UniHGKR-7B-pretrained"
+output_model_name="UniHGKR-7B"
+dataset_file="../../UniHGKR_training_data/UniHGKR_7b_finetune_data.jsonl"
+
+nohup torchrun --nproc_per_node 8 \
+run.py \
+--output_dir ./${output_model_name} \
+--model_name_or_path ${base_model} \
+--train_data ${dataset_file} \
+--learning_rate 2e-4 \
+--num_train_epochs 1 \
+--per_device_train_batch_size 64 \
+--dataloader_drop_last True \
+--normlized True \
+--temperature 0.01 \
+--query_max_len 64 \
+--passage_max_len 160 \
+--train_group_size 8 \
+--logging_steps 10 \
+--save_steps 50000 \
+--save_total_limit 1 \
+--ddp_find_unused_parameters False \
+--negatives_cross_device \
+--gradient_checkpointing \
+--deepspeed ../stage1.json \
+--warmup_ratio 0.1 \
+--fp16 \
+--cache_dir ./LMs \
+--token ...  > logs/${output_model_name}.log 2>&1 &
+```
+
+### 3.7 Evaluate UniHGKR-7B on CompMix-IR
+
+
+**Step 1: split the corpus to small parts and generate embedding**
+
+Since the embedding dimension generated by the 7B model is larger, we need to divide the corpus into multiple small chunks and process each chunk separately for embedding, to avoid the program exceeding the system memory.
+For instance, in our experimental setup, we have 8 GPUs, so we divided it into 8 parts.
+``` shell
+python split_corpus.py
+```
+
+then:
+``` shell
+./run_UniHGKR_7B_for_compmix_embedding.sh
+```
+
+then:
+``` shell
+python merge_split_embedding.py
+```
+
+**Step 2: semantic retrieval**
+``` shell
+./UniHGKR-7B_semantic_retrieve.sh
+```
+
+**Step 3: UniHGKR-7B retrieval performance evaluation**
+
+We can use the same scripts and codes as UniHGKR-base for this part.
+
+
+
+
 ## ✏️ Citation
 If you find our paper and resource useful in your research, please consider giving a star :star: and citation :pencil:.
 
 ```
-@article{min2024unihgkr,
-  title={UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers},
-  author={Min, Dehai and Xu, Zhiyang and Qi, Guilin and Huang, Lifu and You, Chenyu},
-  journal={arXiv preprint arXiv:2410.20163},
-  year={2024}
+@inproceedings{min-etal-2025-unihgkr,
+    title = "{U}ni{HGKR}: Unified Instruction-aware Heterogeneous Knowledge Retrievers",
+    author = "Min, Dehai  and
+      Xu, Zhiyang  and
+      Qi, Guilin  and
+      Huang, Lifu  and
+      You, Chenyu",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.234/",
+    doi = "10.18653/v1/2025.naacl-long.234",
+    pages = "4577--4594",
+    ISBN = "979-8-89176-189-6"
 }
 ```
 
