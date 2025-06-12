@@ -78,9 +78,9 @@ The [CompMix_IR](https://github.com/ZhishanQ/UniHGKR/tree/main/CompMix_IR) direc
 
 ### Environment
 
-- **UniHGKR-base**: please use this environment,[FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding/tree/master/research/baai_general_embedding).
+- **UniHGKR-base**: please use this environment: [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding/tree/master/research/baai_general_embedding).
 
-- **UniHGKR-7B**: please use this environment,[LLARA](https://github.com/FlagOpen/FlagEmbedding/tree/master/research/LLARA).
+- **UniHGKR-7B**: please use this environment: [LLARA](https://github.com/FlagOpen/FlagEmbedding/tree/master/research/LLARA).
 
 
 ### 3.1 Download training dataset
